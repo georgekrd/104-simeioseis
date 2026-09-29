@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="352" viewBox="0 0 900 352">
+  <rect width="900" height="352" fill="#ffffff"/>
+  <line x1="100" y1="60" x2="180" y2="60" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="92" y="66" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="end" fill="#1f2a33">ζυγός ΜΤ</text>
+  <line x1="120" y1="60" x2="120" y2="150" stroke="#1f2a33" stroke-width="2.0"/>
+  <rect x="113" y="76" width="14" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="120" cy="116" r="6" fill="#8f2622"/>
+  <text x="108" y="122" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="end" fill="#8f2622">P, Q</text>
+  <line x1="165" y1="60" x2="165" y2="41" stroke="#8f2622" stroke-width="1.2"/>
+  <polygon points="165,27 172,39 158,39" fill="#8f2622"/>
+  <text x="177" y="40" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="start" fill="#8f2622">V</text>
+  <line x1="120" y1="150" x2="860" y2="150" stroke="#1f2a33" stroke-width="2.0"/>
+  <line x1="200" y1="150" x2="200" y2="164" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="200.00" cy="172.12" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="200.00" cy="183.88" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="200" y1="192" x2="200.0" y2="207.2" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="200.00,212.00 197.00,206.80 203.00,206.80" fill="#1f2a33"/>
+  <rect x="193" y="218" width="14" height="14" fill="#ffffff" stroke="#5b6b78" stroke-width="1.3" stroke-dasharray="3 2"/>
+  <line x1="380" y1="150" x2="380" y2="164" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="380.00" cy="172.12" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="380.00" cy="183.88" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="380" y1="192" x2="380.0" y2="207.2" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="380.00,212.00 377.00,206.80 383.00,206.80" fill="#1f2a33"/>
+  <rect x="373" y="218" width="14" height="14" fill="#f7efee" stroke="#8f2622" stroke-width="1.5"/>
+  <line x1="690" y1="150" x2="690" y2="164" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="690.00" cy="172.12" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="690.00" cy="183.88" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="690" y1="192" x2="690.0" y2="207.2" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="690.00,212.00 687.00,206.80 693.00,206.80" fill="#1f2a33"/>
+  <rect x="683" y="218" width="14" height="14" fill="#ffffff" stroke="#5b6b78" stroke-width="1.3" stroke-dasharray="3 2"/>
+  <line x1="775" y1="150" x2="775" y2="164" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="775.00" cy="172.12" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="775.00" cy="183.88" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="775" y1="192" x2="775.0" y2="207.2" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="775.00,212.00 772.00,206.80 778.00,206.80" fill="#1f2a33"/>
+  <rect x="768" y="218" width="14" height="14" fill="#f7efee" stroke="#8f2622" stroke-width="1.5"/>
+  <line x1="860" y1="150" x2="860" y2="164" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="860.00" cy="172.12" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="860.00" cy="183.88" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="860" y1="192" x2="860.0" y2="207.2" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="860.00,212.00 857.00,206.80 863.00,206.80" fill="#1f2a33"/>
+  <rect x="853" y="218" width="14" height="14" fill="#ffffff" stroke="#5b6b78" stroke-width="1.3" stroke-dasharray="3 2"/>
+  <line x1="290" y1="150" x2="290" y2="168" stroke="#1f2a33" stroke-width="1.4"/>
+  <rect x="248" y="168" width="84" height="44" rx="4" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="290.0" y="187.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#1f2a33">ΑΠΕ</text>
+  <text x="290.0" y="206.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">με RTU</text>
+  <line x1="290" y1="150" x2="290" y2="130" stroke="#8f2622" stroke-width="1.2"/>
+  <rect x="283" y="116" width="14" height="14" fill="#8f2622"/>
+  <text x="304" y="129" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="start" fill="#8f2622">P, Q</text>
+  <line x1="480" y1="150" x2="480" y2="170" stroke="#1f2a33" stroke-width="1.2"/>
+  <rect x="473" y="170" width="14" height="14" fill="#1f2a33"/>
+  <text x="468" y="183" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="end" fill="#1f2a33">P, Q = 0</text>
+  <polyline points="480.00,150.00 480.00,90.00 570.00,90.00" fill="none" stroke="#1f2a33" stroke-width="2.0"/>
+  <circle cx="570" cy="90" r="4.5" fill="#1f2a33"/>
+  <line x1="570" y1="90" x2="584" y2="90" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="592.12" cy="90.00" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="603.88" cy="90.00" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="612" y1="90" x2="627.2" y2="90.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="632.00,90.00 626.80,93.00 626.80,87.00" fill="#1f2a33"/>
+  <rect x="639" y="83" width="14" height="14" fill="#ffffff" stroke="#5b6b78" stroke-width="1.3" stroke-dasharray="3 2"/>
+  <rect x="568" y="143" width="14" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="605" cy="150" r="6" fill="#8f2622"/>
+  <text x="605" y="136" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#8f2622">I</text>
+  <text x="575" y="183" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τηλεχειριζόμενος</text>
+  <text x="575" y="201" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">διακόπτης</text>
+  <circle cx="200" cy="150" r="4.5" fill="#1f2a33"/>
+  <circle cx="290" cy="150" r="4.5" fill="#1f2a33"/>
+  <circle cx="380" cy="150" r="4.5" fill="#1f2a33"/>
+  <circle cx="480" cy="150" r="4.5" fill="#1f2a33"/>
+  <circle cx="690" cy="150" r="4.5" fill="#1f2a33"/>
+  <circle cx="775" cy="150" r="4.5" fill="#1f2a33"/>
+  <circle cx="860" cy="150" r="4.5" fill="#1f2a33"/>
+  <polygon points="48,265 55,277 41,277" fill="#8f2622"/>
+  <text x="64" y="277" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">μέτρο τάσης</text>
+  <circle cx="186" cy="272" r="6" fill="#8f2622"/>
+  <text x="202" y="277" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">ροή ή ρεύμα κλάδου</text>
+  <rect x="375" y="265" width="14" height="14" fill="#8f2622"/>
+  <text x="398" y="277" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">έγχυση κόμβου</text>
+  <text x="530" y="277" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">(πραγματικού χρόνου, 1–3 %)</text>
+  <rect x="41" y="295" width="14" height="14" fill="#f7efee" stroke="#8f2622" stroke-width="1.5"/>
+  <text x="64" y="307" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">άθροισμα έξυπνων μετρητών ανά 15 min (3–5 %)</text>
+  <rect x="493" y="295" width="14" height="14" fill="#ffffff" stroke="#5b6b78" stroke-width="1.3" stroke-dasharray="3 2"/>
+  <text x="516" y="307" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">ψευδομέτρηση φορτίου από προφίλ (20–50 %)</text>
+  <rect x="41" y="325" width="14" height="14" fill="#1f2a33"/>
+  <text x="64" y="337" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">εικονική μέτρηση μηδενικής έγχυσης</text>
+</svg>

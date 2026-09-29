@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="434" viewBox="0 0 900 434">
+  <rect width="900" height="434" fill="#ffffff"/>
+  <text x="225.0" y="34" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="bold" text-anchor="middle" fill="#1f2a33">1. Σφάλμα: ο διακόπτης της γραμμής Α ανοίγει</text>
+  <line x1="30" y1="66" x2="70" y2="66" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="24" y="71" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">Α</text>
+  <line x1="380" y1="66" x2="420" y2="66" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="426" y="71" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78">Β</text>
+  <line x1="50" y1="66" x2="50" y2="78" stroke="#1f2a33" stroke-width="2.0"/>
+  <rect x="43" y="78" width="14" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="44" y1="91" x2="56" y2="79" stroke="#8f2622" stroke-width="1.5"/>
+  <line x1="400" y1="66" x2="400" y2="78" stroke="#1f2a33" stroke-width="2.0"/>
+  <rect x="393" y="78" width="14" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="50" y1="96" x2="110" y2="96" stroke="#9aa7b2" stroke-width="2.6"/>
+  <line x1="84.0" y1="96" x2="84.0" y2="121.2" stroke="#9aa7b2" stroke-width="1.4"/>
+  <polygon points="84.00,126.00 81.00,120.80 87.00,120.80" fill="#9aa7b2"/>
+  <line x1="126" y1="96" x2="178" y2="96" stroke="#9aa7b2" stroke-width="2.6"/>
+  <line x1="152.0" y1="96" x2="152.0" y2="121.2" stroke="#9aa7b2" stroke-width="1.4"/>
+  <polygon points="152.00,126.00 149.00,120.80 155.00,120.80" fill="#9aa7b2"/>
+  <line x1="194" y1="96" x2="246" y2="96" stroke="#9aa7b2" stroke-width="2.6"/>
+  <line x1="220.0" y1="96" x2="220.0" y2="121.2" stroke="#9aa7b2" stroke-width="1.4"/>
+  <polygon points="220.00,126.00 217.00,120.80 223.00,120.80" fill="#9aa7b2"/>
+  <line x1="262" y1="96" x2="322" y2="96" stroke="#9aa7b2" stroke-width="2.6"/>
+  <line x1="288.0" y1="96" x2="288.0" y2="121.2" stroke="#9aa7b2" stroke-width="1.4"/>
+  <polygon points="288.00,126.00 285.00,120.80 291.00,120.80" fill="#9aa7b2"/>
+  <rect x="110" y="89" width="16" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <rect x="178" y="89" width="16" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <rect x="246" y="89" width="16" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <polyline points="230.0,74 238.0,86 233.0,86 241.0,98" fill="none" stroke="#8f2622" stroke-width="2"/>
+  <line x1="322" y1="96" x2="342" y2="96" stroke="#9aa7b2" stroke-width="2.6"/>
+  <rect x="342" y="89" width="20" height="14" fill="#ffffff" stroke="#8f2622" stroke-width="1.6"/>
+  <line x1="344" y1="102" x2="360" y2="90" stroke="#8f2622" stroke-width="1.4"/>
+  <line x1="362" y1="96" x2="400" y2="96" stroke="#8f2622" stroke-width="2.6"/>
+  <line x1="381.0" y1="96" x2="381.0" y2="121.2" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="381.00,126.00 378.00,120.80 384.00,120.80" fill="#8f2622"/>
+  <text x="352" y="120" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#8f2622">ΚΑ</text>
+  <text x="84.0" y="144" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 1</text>
+  <text x="152.0" y="144" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 2</text>
+  <text x="220.0" y="144" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 3</text>
+  <text x="288.0" y="144" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 4</text>
+  <text x="225.0" y="188" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">όλη η γραμμή Α χωρίς τάση</text>
+  <text x="675.0" y="34" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="bold" text-anchor="middle" fill="#1f2a33">2. Απομόνωση του τμήματος με το σφάλμα</text>
+  <line x1="480" y1="66" x2="520" y2="66" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="474" y="71" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">Α</text>
+  <line x1="830" y1="66" x2="870" y2="66" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="876" y="71" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78">Β</text>
+  <line x1="500" y1="66" x2="500" y2="78" stroke="#1f2a33" stroke-width="2.0"/>
+  <rect x="493" y="78" width="14" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="494" y1="91" x2="506" y2="79" stroke="#8f2622" stroke-width="1.5"/>
+  <line x1="850" y1="66" x2="850" y2="78" stroke="#1f2a33" stroke-width="2.0"/>
+  <rect x="843" y="78" width="14" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="500" y1="96" x2="560" y2="96" stroke="#9aa7b2" stroke-width="2.6"/>
+  <line x1="534.0" y1="96" x2="534.0" y2="121.2" stroke="#9aa7b2" stroke-width="1.4"/>
+  <polygon points="534.00,126.00 531.00,120.80 537.00,120.80" fill="#9aa7b2"/>
+  <line x1="576" y1="96" x2="628" y2="96" stroke="#9aa7b2" stroke-width="2.6"/>
+  <line x1="602.0" y1="96" x2="602.0" y2="121.2" stroke="#9aa7b2" stroke-width="1.4"/>
+  <polygon points="602.00,126.00 599.00,120.80 605.00,120.80" fill="#9aa7b2"/>
+  <line x1="644" y1="96" x2="696" y2="96" stroke="#9aa7b2" stroke-width="2.6"/>
+  <line x1="670.0" y1="96" x2="670.0" y2="121.2" stroke="#9aa7b2" stroke-width="1.4"/>
+  <polygon points="670.00,126.00 667.00,120.80 673.00,120.80" fill="#9aa7b2"/>
+  <line x1="712" y1="96" x2="772" y2="96" stroke="#9aa7b2" stroke-width="2.6"/>
+  <line x1="738.0" y1="96" x2="738.0" y2="121.2" stroke="#9aa7b2" stroke-width="1.4"/>
+  <polygon points="738.00,126.00 735.00,120.80 741.00,120.80" fill="#9aa7b2"/>
+  <rect x="560" y="89" width="16" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <rect x="628" y="89" width="16" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="630" y1="102" x2="642" y2="90" stroke="#1f2a33" stroke-width="1.4"/>
+  <rect x="696" y="89" width="16" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="698" y1="102" x2="710" y2="90" stroke="#1f2a33" stroke-width="1.4"/>
+  <polyline points="680.0,74 688.0,86 683.0,86 691.0,98" fill="none" stroke="#8f2622" stroke-width="2"/>
+  <line x1="772" y1="96" x2="792" y2="96" stroke="#9aa7b2" stroke-width="2.6"/>
+  <rect x="792" y="89" width="20" height="14" fill="#ffffff" stroke="#8f2622" stroke-width="1.6"/>
+  <line x1="794" y1="102" x2="810" y2="90" stroke="#8f2622" stroke-width="1.4"/>
+  <line x1="812" y1="96" x2="850" y2="96" stroke="#8f2622" stroke-width="2.6"/>
+  <line x1="831.0" y1="96" x2="831.0" y2="121.2" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="831.00,126.00 828.00,120.80 834.00,120.80" fill="#8f2622"/>
+  <text x="802" y="120" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#8f2622">ΚΑ</text>
+  <text x="534.0" y="144" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 1</text>
+  <text x="602.0" y="144" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 2</text>
+  <text x="670.0" y="144" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 3</text>
+  <text x="738.0" y="144" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 4</text>
+  <text x="675.0" y="188" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">όλη η γραμμή Α χωρίς τάση</text>
+  <text x="225.0" y="230" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="bold" text-anchor="middle" fill="#1f2a33">3. Επανατροφοδότηση ανάντη από τον υποσταθμό Α</text>
+  <line x1="30" y1="262" x2="70" y2="262" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="24" y="267" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">Α</text>
+  <line x1="380" y1="262" x2="420" y2="262" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="426" y="267" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78">Β</text>
+  <line x1="50" y1="262" x2="50" y2="274" stroke="#1f2a33" stroke-width="2.0"/>
+  <rect x="43" y="274" width="14" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="400" y1="262" x2="400" y2="274" stroke="#1f2a33" stroke-width="2.0"/>
+  <rect x="393" y="274" width="14" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="50" y1="292" x2="110" y2="292" stroke="#1f2a33" stroke-width="2.6"/>
+  <line x1="84.0" y1="292" x2="84.0" y2="317.2" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="84.00,322.00 81.00,316.80 87.00,316.80" fill="#1f2a33"/>
+  <line x1="126" y1="292" x2="178" y2="292" stroke="#1f2a33" stroke-width="2.6"/>
+  <line x1="152.0" y1="292" x2="152.0" y2="317.2" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="152.00,322.00 149.00,316.80 155.00,316.80" fill="#1f2a33"/>
+  <line x1="194" y1="292" x2="246" y2="292" stroke="#9aa7b2" stroke-width="2.6"/>
+  <line x1="220.0" y1="292" x2="220.0" y2="317.2" stroke="#9aa7b2" stroke-width="1.4"/>
+  <polygon points="220.00,322.00 217.00,316.80 223.00,316.80" fill="#9aa7b2"/>
+  <line x1="262" y1="292" x2="322" y2="292" stroke="#9aa7b2" stroke-width="2.6"/>
+  <line x1="288.0" y1="292" x2="288.0" y2="317.2" stroke="#9aa7b2" stroke-width="1.4"/>
+  <polygon points="288.00,322.00 285.00,316.80 291.00,316.80" fill="#9aa7b2"/>
+  <rect x="110" y="285" width="16" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <rect x="178" y="285" width="16" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="180" y1="298" x2="192" y2="286" stroke="#1f2a33" stroke-width="1.4"/>
+  <rect x="246" y="285" width="16" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="248" y1="298" x2="260" y2="286" stroke="#1f2a33" stroke-width="1.4"/>
+  <polyline points="230.0,270 238.0,282 233.0,282 241.0,294" fill="none" stroke="#8f2622" stroke-width="2"/>
+  <line x1="322" y1="292" x2="342" y2="292" stroke="#9aa7b2" stroke-width="2.6"/>
+  <rect x="342" y="285" width="20" height="14" fill="#ffffff" stroke="#8f2622" stroke-width="1.6"/>
+  <line x1="344" y1="298" x2="360" y2="286" stroke="#8f2622" stroke-width="1.4"/>
+  <line x1="362" y1="292" x2="400" y2="292" stroke="#8f2622" stroke-width="2.6"/>
+  <line x1="381.0" y1="292" x2="381.0" y2="317.2" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="381.00,322.00 378.00,316.80 384.00,316.80" fill="#8f2622"/>
+  <text x="352" y="316" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#8f2622">ΚΑ</text>
+  <text x="84.0" y="340" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 1</text>
+  <text x="152.0" y="340" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 2</text>
+  <text x="220.0" y="340" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 3</text>
+  <text x="288.0" y="340" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 4</text>
+  <text x="225.0" y="384" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">χωρίς τάση: τμήματα 3, 4</text>
+  <text x="675.0" y="230" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="bold" text-anchor="middle" fill="#1f2a33">4. Επανατροφοδότηση κατάντη από τη γραμμή Β</text>
+  <line x1="480" y1="262" x2="520" y2="262" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="474" y="267" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">Α</text>
+  <line x1="830" y1="262" x2="870" y2="262" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="876" y="267" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78">Β</text>
+  <line x1="500" y1="262" x2="500" y2="274" stroke="#1f2a33" stroke-width="2.0"/>
+  <rect x="493" y="274" width="14" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="850" y1="262" x2="850" y2="274" stroke="#1f2a33" stroke-width="2.0"/>
+  <rect x="843" y="274" width="14" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="500" y1="292" x2="560" y2="292" stroke="#1f2a33" stroke-width="2.6"/>
+  <line x1="534.0" y1="292" x2="534.0" y2="317.2" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="534.00,322.00 531.00,316.80 537.00,316.80" fill="#1f2a33"/>
+  <line x1="576" y1="292" x2="628" y2="292" stroke="#1f2a33" stroke-width="2.6"/>
+  <line x1="602.0" y1="292" x2="602.0" y2="317.2" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="602.00,322.00 599.00,316.80 605.00,316.80" fill="#1f2a33"/>
+  <line x1="644" y1="292" x2="696" y2="292" stroke="#9aa7b2" stroke-width="2.6"/>
+  <line x1="670.0" y1="292" x2="670.0" y2="317.2" stroke="#9aa7b2" stroke-width="1.4"/>
+  <polygon points="670.00,322.00 667.00,316.80 673.00,316.80" fill="#9aa7b2"/>
+  <line x1="712" y1="292" x2="772" y2="292" stroke="#8f2622" stroke-width="2.6"/>
+  <line x1="738.0" y1="292" x2="738.0" y2="317.2" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="738.00,322.00 735.00,316.80 741.00,316.80" fill="#8f2622"/>
+  <rect x="560" y="285" width="16" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <rect x="628" y="285" width="16" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="630" y1="298" x2="642" y2="286" stroke="#1f2a33" stroke-width="1.4"/>
+  <rect x="696" y="285" width="16" height="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="698" y1="298" x2="710" y2="286" stroke="#1f2a33" stroke-width="1.4"/>
+  <polyline points="680.0,270 688.0,282 683.0,282 691.0,294" fill="none" stroke="#8f2622" stroke-width="2"/>
+  <line x1="772" y1="292" x2="792" y2="292" stroke="#8f2622" stroke-width="2.6"/>
+  <rect x="792" y="285" width="20" height="14" fill="#ffffff" stroke="#8f2622" stroke-width="1.6"/>
+  <line x1="812" y1="292" x2="850" y2="292" stroke="#8f2622" stroke-width="2.6"/>
+  <line x1="831.0" y1="292" x2="831.0" y2="317.2" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="831.00,322.00 828.00,316.80 834.00,316.80" fill="#8f2622"/>
+  <text x="802" y="316" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#8f2622">ΚΑ</text>
+  <text x="534.0" y="340" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 1</text>
+  <text x="602.0" y="340" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 2</text>
+  <text x="670.0" y="340" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 3</text>
+  <text x="738.0" y="340" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τμήμα 4</text>
+  <text x="675.0" y="384" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">χωρίς τάση: τμήμα 3</text>
+  <text x="450" y="424" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">γκρι: χωρίς τάση · μαύρο: τροφοδότηση από τη γραμμή Α · κόκκινο: τροφοδότηση από τη γραμμή Β · διαγώνιος: ανοικτός διακόπτης</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="332" viewBox="0 0 470 332">
+  <rect width="470" height="332" fill="#ffffff"/>
+  <rect x="70" y="28" width="370" height="246.7" fill="#fbfcfd"/>
+  <circle cx="238.7" cy="156.4" r="98.7" fill="#eef2f6" stroke="#8f2622" stroke-width="2.4"/>
+  <line x1="70" y1="126.66666666666667" x2="440" y2="126.66666666666667" stroke="#5b6b78" stroke-width="1.0"/>
+  <line x1="70" y1="274.66666666666663" x2="440" y2="274.66666666666663" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="70" y1="28" x2="70" y2="274.66666666666663" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="70.0" y1="274.66666666666663" x2="70.0" y2="279.66666666666663" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="70.0" y="294.66666666666663" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">0</text>
+  <line x1="193.33333333333331" y1="274.66666666666663" x2="193.33333333333331" y2="279.66666666666663" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="193.33333333333331" y="294.66666666666663" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">0,5</text>
+  <line x1="316.66666666666663" y1="274.66666666666663" x2="316.66666666666663" y2="279.66666666666663" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="316.66666666666663" y="294.66666666666663" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">1</text>
+  <line x1="440.0" y1="274.66666666666663" x2="440.0" y2="279.66666666666663" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="440.0" y="294.66666666666663" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">1,5</text>
+  <line x1="65" y1="250.0" x2="70" y2="250.0" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="62" y="254.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">−0,5</text>
+  <line x1="65" y1="188.33333333333334" x2="70" y2="188.33333333333334" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="62" y="192.33333333333334" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">−0,25</text>
+  <line x1="65" y1="126.66666666666667" x2="70" y2="126.66666666666667" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="62" y="130.66666666666669" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">0</text>
+  <line x1="65" y1="65.0" x2="70" y2="65.0" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="62" y="69.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">0,25</text>
+  <text x="255.0" y="318.66666666666663" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">ενεργή ισχύς P (p.u.)</text>
+  <text x="30" y="18" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">άεργη ισχύς Q (p.u.)</text>
+  <line x1="70.0" y1="126.66666666666667" x2="440.0" y2="191.90764952879866" stroke="#1f2a33" stroke-width="1.2" stroke-dasharray="5 4"/>
+  <line x1="141.56223907679203" y1="139.2850202158147" x2="335.8976356712011" y2="173.55159394208894" stroke="#1f2a33" stroke-width="2.6"/>
+  <text x="436" y="214.90764952879866" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#1f2a33">TCSC, SSSC</text>
+  <line x1="241.22993737399656" y1="160.74843409787402" x2="285.66327070732996" y2="237.70922498085113" stroke="#5b6b78" stroke-width="1.1"/>
+  <polygon points="288.06,241.87 282.87,238.87 288.06,235.87" fill="#5b6b78"/>
+  <text x="248.72993737399656" y="204.41461899098738" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="end" fill="#1f2a33" font-style="italic"><tspan font-size="15.95" dy="0">V</tspan><tspan font-size="11.95" dy="4">2</tspan><tspan font-size="15.95" dy="-4">V</tspan><tspan font-size="11.95" dy="4">σ</tspan><tspan font-size="11.95" dy="-9">max</tspan><tspan font-size="15.95" dy="5">/X</tspan></text>
+  <line x1="238.72993737399656" y1="150.41830707895184" x2="238.72993737399656" y2="138.4666666666667" stroke="#8f2622" stroke-width="1.6"/>
+  <polygon points="238.73,133.67 241.73,138.86 235.73,138.86" fill="#8f2622"/>
+  <circle cx="238.7" cy="156.4" r="4.2" fill="#1f2a33"/>
+  <circle cx="238.7" cy="126.7" r="4.6" fill="#ffffff" stroke="#8f2622" stroke-width="2"/>
+  <text x="230.72993737399656" y="176.41830707895184" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="end" fill="#1f2a33">A</text>
+  <text x="229.72993737399656" y="118.66666666666667" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="end" fill="#1f2a33">B</text>
+  <text x="280.16993737399656" y="95.24497374561851" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#8f2622">UPFC</text>
+</svg>

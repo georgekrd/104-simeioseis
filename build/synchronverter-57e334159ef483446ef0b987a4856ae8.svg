@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="388" viewBox="0 0 900 388">
+  <rect width="900" height="388" fill="#ffffff"/>
+  <rect x="8" y="104" width="192" height="194" rx="4" fill="none" stroke="#8f2622" stroke-width="1.2" stroke-dasharray="5 4"/>
+  <text x="104" y="92" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#8f2622">Μονάδα ΑΠΕ</text>
+  <polygon points="56,186 76,206 56,226 36,206" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <path d="M 47.0 206.0 q 4.5 -8 9 0 t 9 0" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="56" y1="186" x2="56" y2="150" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="56" y1="226" x2="56" y2="262" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="45.0" y1="262.0" x2="67.0" y2="262.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="49.0" y1="266.5" x2="63.0" y2="266.5" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="52.5" y1="271.0" x2="59.5" y2="271.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="24" y="212" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="bold" text-anchor="middle" fill="#1f2a33">E</text>
+  <line x1="56" y1="150" x2="84" y2="150" stroke="#1f2a33" stroke-width="1.6"/>
+  <polyline points="84.00,150.00 88.00,150.00 90.00,144.00 94.00,156.00 98.00,144.00 102.00,156.00 106.00,144.00 110.00,156.00 112.00,150.00 116.00,150.00" fill="none" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="116" y1="150" x2="124" y2="150" stroke="#1f2a33" stroke-width="1.6"/>
+  <path d="M 124 150 a 5.0 7 0 0 1 10.00 0 a 5.0 7 0 0 1 10.00 0 a 5.0 7 0 0 1 10.00 0" fill="none" stroke="#1f2a33" stroke-width="1.6"/>
+  <text x="100" y="133" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">R</tspan><tspan font-size="13.399999999999999" dy="4">c</tspan><tspan dy="-4"> </tspan></text>
+  <text x="139" y="133" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">L</tspan><tspan font-size="13.399999999999999" dy="4">c</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="154" y1="150" x2="222" y2="150" stroke="#1f2a33" stroke-width="1.6"/>
+  <circle cx="176" cy="150" r="3.4" fill="#1f2a33"/>
+  <line x1="176" y1="150" x2="176" y2="202" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="164.0" y1="202" x2="188.0" y2="202" stroke="#1f2a33" stroke-width="2.2"/>
+  <line x1="164.0" y1="210" x2="188.0" y2="210" stroke="#1f2a33" stroke-width="2.2"/>
+  <line x1="176" y1="210" x2="176" y2="262" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="165.0" y1="262.0" x2="187.0" y2="262.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="169.0" y1="266.5" x2="183.0" y2="266.5" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="172.5" y1="271.0" x2="179.5" y2="271.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="152" y="212" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33" font-style="italic">C</text>
+  <text x="206" y="212" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="start" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">PCC</tspan><tspan dy="-4"> </tspan></text>
+  <polyline points="222.00,150.00 226.00,150.00 228.00,144.00 232.00,156.00 236.00,144.00 240.00,156.00 244.00,144.00 248.00,156.00 250.00,150.00 254.00,150.00" fill="none" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="254" y1="150" x2="262" y2="150" stroke="#1f2a33" stroke-width="1.6"/>
+  <path d="M 262 150 a 5.0 7 0 0 1 10.00 0 a 5.0 7 0 0 1 10.00 0 a 5.0 7 0 0 1 10.00 0" fill="none" stroke="#1f2a33" stroke-width="1.6"/>
+  <text x="238" y="133" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">R</tspan><tspan font-size="13.399999999999999" dy="4">g</tspan><tspan dy="-4"> </tspan></text>
+  <text x="277" y="133" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">L</tspan><tspan font-size="13.399999999999999" dy="4">g</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="292" y1="150" x2="318" y2="150" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="318" y1="150" x2="318" y2="186" stroke="#1f2a33" stroke-width="1.6"/>
+  <circle cx="318" cy="206" r="20" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <path d="M 309.0 206.0 q 4.5 -8 9 0 t 9 0" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="318" y1="226" x2="318" y2="262" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="307.0" y1="262.0" x2="329.0" y2="262.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="311.0" y1="266.5" x2="325.0" y2="266.5" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="314.5" y1="271.0" x2="321.5" y2="271.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="346" y="212" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="start" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">grid</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="404" y1="14" x2="404" y2="374" stroke="#5b6b78" stroke-width="1.1" stroke-dasharray="5 4"/>
+  <rect x="460" y="26" width="412" height="146" rx="4" fill="none" stroke="#8f2622" stroke-width="1.2" stroke-dasharray="5 4"/>
+  <text x="666" y="16" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#8f2622">Βρόχος ενεργής ισχύος</text>
+  <text x="414" y="134" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="start" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">P</tspan><tspan font-size="13.399999999999999" dy="4">set</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="446" y1="128" x2="468.4" y2="128.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="474.00,128.00 467.94,131.50 467.94,124.50" fill="#1f2a33"/>
+  <rect x="474" y="100" width="54" height="56" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="501" y="118" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">1</text>
+  <line x1="489" y1="124" x2="513" y2="124" stroke="#1f2a33" stroke-width="1.2"/>
+  <text x="491" y="146" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="start" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">θ</tspan><tspan font-size="13.399999999999999" dy="4">n</tspan><tspan dy="-4"> </tspan></text>
+  <circle cx="497.26" cy="131.04" r="1.30" fill="#1f2a33"/>
+  <line x1="528" y1="128" x2="555.4" y2="128.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="561.00,128.00 554.94,131.50 554.94,124.50" fill="#1f2a33"/>
+  <text x="544" y="118" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">T</tspan><tspan font-size="13.399999999999999" dy="4">m</tspan><tspan dy="-4"> </tspan></text>
+  <circle cx="574" cy="128" r="13" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="587" y1="128" x2="606.4" y2="128.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="612.00,128.00 605.94,131.50 605.94,124.50" fill="#1f2a33"/>
+  <rect x="612" y="100" width="56" height="56" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="640" y="118" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">1</text>
+  <line x1="626" y1="124" x2="654" y2="124" stroke="#1f2a33" stroke-width="1.2"/>
+  <text x="640" y="146" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33" font-style="italic">Js</text>
+  <line x1="668" y1="128" x2="704" y2="128" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="676" y="119" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="start" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">θ</tspan></text>
+  <circle cx="682.26" cy="104.04" r="1.30" fill="#1f2a33"/>
+  <circle cx="704" cy="128" r="3.4" fill="#1f2a33"/>
+  <line x1="704" y1="128" x2="726.4" y2="128.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="732.00,128.00 725.94,131.50 725.94,124.50" fill="#1f2a33"/>
+  <rect x="732" y="100" width="40" height="56" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="752" y="118" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">1</text>
+  <line x1="742" y1="124" x2="762" y2="124" stroke="#1f2a33" stroke-width="1.2"/>
+  <text x="752" y="146" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33" font-style="italic">s</text>
+  <line x1="772" y1="128" x2="830" y2="128" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="800" y="119" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33" font-style="italic">θ</text>
+  <line x1="830" y1="128" x2="830.0" y2="186.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="830.00,192.00 826.50,185.94 833.50,185.94" fill="#1f2a33"/>
+  <circle cx="704" cy="58" r="13" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="704" y1="128" x2="704.0" y2="76.6" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="704.00,71.00 707.50,77.06 700.50,77.06" fill="#1f2a33"/>
+  <line x1="776" y1="58" x2="722.6" y2="58.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="717.00,58.00 723.06,54.50 723.06,61.50" fill="#1f2a33"/>
+  <text x="782" y="64" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="start" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">θ</tspan><tspan font-size="13.399999999999999" dy="4">n</tspan><tspan dy="-4"> </tspan></text>
+  <circle cx="788.26" cy="49.04" r="1.30" fill="#1f2a33"/>
+  <text x="729" y="50" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">−</text>
+  <rect x="612" y="36" width="56" height="44" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="640" y="64" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">D</tspan><tspan font-size="13.399999999999999" dy="4">p</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="691" y1="58" x2="673.6" y2="58.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="668.00,58.00 674.06,54.50 674.06,61.50" fill="#1f2a33"/>
+  <line x1="612" y1="58" x2="574" y2="58" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="574" y1="58" x2="574.0" y2="109.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="574.00,115.00 570.50,108.94 577.50,108.94" fill="#1f2a33"/>
+  <text x="585" y="106" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">−</text>
+  <rect x="690" y="192" width="170" height="60" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="775" y="228" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">Εξισώσεις εξόδου</text>
+  <line x1="704" y1="128" x2="704.0" y2="186.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="704.00,192.00 700.50,185.94 707.50,185.94" fill="#1f2a33"/>
+  <line x1="690" y1="206" x2="574" y2="206" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="574" y1="206" x2="574.0" y2="146.6" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="574.00,141.00 577.50,147.06 570.50,147.06" fill="#1f2a33"/>
+  <text x="630" y="197" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">T</tspan><tspan font-size="13.399999999999999" dy="4">e</tspan><tspan dy="-4"> </tspan></text>
+  <text x="586" y="160" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">−</text>
+  <line x1="860" y1="222" x2="887.4" y2="222.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="893.00,222.00 886.94,225.50 886.94,218.50" fill="#1f2a33"/>
+  <text x="878" y="212" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="bold" text-anchor="middle" fill="#1f2a33">E</text>
+  <line x1="846" y1="284" x2="846.0" y2="257.6" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="846.00,252.00 849.50,258.06 842.50,258.06" fill="#1f2a33"/>
+  <text x="846" y="302" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="bold" text-anchor="middle" fill="#1f2a33">I</text>
+  <rect x="460" y="270" width="280" height="86" rx="4" fill="none" stroke="#8f2622" stroke-width="1.2" stroke-dasharray="5 4"/>
+  <text x="600" y="378" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#8f2622">Βρόχος άεργης ισχύος</text>
+  <text x="414" y="321" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="start" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">Q</tspan><tspan font-size="13.399999999999999" dy="4">set</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="446" y1="315" x2="481.4" y2="315.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="487.00,315.00 480.94,318.50 480.94,311.50" fill="#1f2a33"/>
+  <circle cx="500" cy="315" r="13" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="690" y1="238" x2="500" y2="238" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="500" y1="238" x2="500.0" y2="296.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="500.00,302.00 496.50,295.94 503.50,295.94" fill="#1f2a33"/>
+  <text x="630" y="232" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33" font-style="italic">Q</text>
+  <text x="511" y="296" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">−</text>
+  <line x1="513" y1="315" x2="534.4" y2="315.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="540.00,315.00 533.94,318.50 533.94,311.50" fill="#1f2a33"/>
+  <rect x="540" y="287" width="56" height="56" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="566" y="305" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">k</tspan><tspan font-size="13.399999999999999" dy="4">i</tspan><tspan font-size="13.399999999999999" dy="-9">v</tspan><tspan dy="5"> </tspan></text>
+  <line x1="554" y1="311" x2="582" y2="311" stroke="#1f2a33" stroke-width="1.2"/>
+  <text x="568" y="333" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33" font-style="italic">s</text>
+  <line x1="596" y1="315" x2="720" y2="315" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="720" y1="315" x2="720.0" y2="257.6" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="720.00,252.00 723.50,258.06 716.50,258.06" fill="#1f2a33"/>
+  <text x="652" y="303" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33" font-style="italic"><tspan font-size="17.4" dy="0">Φ</tspan><tspan font-size="13.399999999999999" dy="4">sf</tspan><tspan dy="-4"> </tspan></text>
+</svg>

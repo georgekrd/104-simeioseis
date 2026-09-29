@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270">
+  <rect width="900" height="270" fill="#ffffff"/>
+  <line x1="110" y1="62" x2="110" y2="176" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="110" y="46" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">Ζυγός i</text>
+  <text x="110" y="206" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" text-anchor="middle" fill="#1f2a33"><tspan font-size="18.849999999999998" dy="0">V</tspan><tspan font-size="14.849999999999998" dy="4">i</tspan><tspan font-size="18.849999999999998" dy="-4"> ∠ θ</tspan><tspan font-size="14.849999999999998" dy="4">i</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="790" y1="62" x2="790" y2="176" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="790" y="46" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">Ζυγός j</text>
+  <text x="790" y="206" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" text-anchor="middle" fill="#1f2a33"><tspan font-size="18.849999999999998" dy="0">V</tspan><tspan font-size="14.849999999999998" dy="4">j</tspan><tspan font-size="18.849999999999998" dy="-4"> ∠ θ</tspan><tspan font-size="14.849999999999998" dy="4">j</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="110" y1="112" x2="390" y2="112" stroke="#1f2a33" stroke-width="1.8"/>
+  <rect x="390" y="94" width="120" height="36" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="510" y1="112" x2="790" y2="112" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="450" y="80" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" text-anchor="middle" fill="#1f2a33"><tspan font-size="18.849999999999998" dy="0">y</tspan><tspan font-size="14.849999999999998" dy="4">ij</tspan><tspan font-size="18.849999999999998" dy="-4"> = g</tspan><tspan font-size="14.849999999999998" dy="4">ij</tspan><tspan font-size="18.849999999999998" dy="-4"> + j b</tspan><tspan font-size="14.849999999999998" dy="4">ij</tspan><tspan dy="-4"> </tspan></text>
+  <circle cx="250" cy="112" r="3.4" fill="#1f2a33"/>
+  <line x1="250" y1="112" x2="250" y2="150" stroke="#1f2a33" stroke-width="1.6"/>
+  <rect x="235" y="150" width="30" height="50" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="250" y1="200" x2="250" y2="222" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="239.0" y1="222.0" x2="261.0" y2="222.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="243.0" y1="226.5" x2="257.0" y2="226.5" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="246.5" y1="231.0" x2="253.5" y2="231.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="276" y="181" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="start" fill="#5b6b78"><tspan font-size="17.4" dy="0">y</tspan><tspan font-size="13.399999999999999" dy="4">si</tspan><tspan font-size="17.4" dy="-4"> = g</tspan><tspan font-size="13.399999999999999" dy="4">si</tspan><tspan font-size="17.4" dy="-4"> + j b</tspan><tspan font-size="13.399999999999999" dy="4">si</tspan><tspan dy="-4"> </tspan></text>
+  <circle cx="650" cy="112" r="3.4" fill="#1f2a33"/>
+  <line x1="650" y1="112" x2="650" y2="150" stroke="#1f2a33" stroke-width="1.6"/>
+  <rect x="635" y="150" width="30" height="50" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="650" y1="200" x2="650" y2="222" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="639.0" y1="222.0" x2="661.0" y2="222.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="643.0" y1="226.5" x2="657.0" y2="226.5" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="646.5" y1="231.0" x2="653.5" y2="231.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="624" y="181" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="end" fill="#5b6b78"><tspan font-size="17.4" dy="0">y</tspan><tspan font-size="13.399999999999999" dy="4">sj</tspan><tspan font-size="17.4" dy="-4"> = g</tspan><tspan font-size="13.399999999999999" dy="4">sj</tspan><tspan font-size="17.4" dy="-4"> + j b</tspan><tspan font-size="13.399999999999999" dy="4">sj</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="138" y1="98" x2="216.4" y2="98.0" stroke="#8f2622" stroke-width="1.6"/>
+  <polygon points="222.00,98.00 215.94,101.50 215.94,94.50" fill="#8f2622"/>
+  <text x="180" y="86" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#8f2622"><tspan font-size="17.4" dy="0">P</tspan><tspan font-size="13.399999999999999" dy="4">ij</tspan><tspan font-size="17.4" dy="-4"> + j Q</tspan><tspan font-size="13.399999999999999" dy="4">ij</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="138" y1="126" x2="216.4" y2="126.0" stroke="#8f2622" stroke-width="1.6"/>
+  <polygon points="222.00,126.00 215.94,129.50 215.94,122.50" fill="#8f2622"/>
+  <text x="180" y="150" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#8f2622"><tspan font-size="17.4" dy="0">I</tspan><tspan font-size="13.399999999999999" dy="4">ij</tspan><tspan dy="-4"> </tspan></text>
+</svg>

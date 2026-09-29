@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <rect width="900" height="360" fill="#ffffff"/>
+  <rect x="20" y="30" width="110" height="40" rx="4" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="75.0" y="54.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">μετρητής</text>
+  <rect x="20" y="85" width="110" height="40" rx="4" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="75.0" y="109.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">μετρητής</text>
+  <rect x="20" y="140" width="110" height="40" rx="4" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="75.0" y="164.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">μετρητής</text>
+  <text x="75" y="212" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">καταναλωτές ΧΤ</text>
+  <rect x="200" y="95" width="150" height="56" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="275.0" y="120.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">συγκεντρωτής</text>
+  <text x="275.0" y="139.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">υποσταθμός ΜΤ/ΧΤ</text>
+  <line x1="130" y1="105" x2="191.29048828937795" y2="117.07236890548354" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="196.00,118.00 190.32,119.94 191.48,114.05" fill="#1f2a33"/>
+  <line x1="130" y1="160" x2="191.58120744699877" y2="133.8746392649096" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="196.00,132.00 192.39,136.79 190.04,131.27" fill="#1f2a33"/>
+  <text x="165" y="100" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">PLC · RF</text>
+  <line x1="130" y1="50" x2="515" y2="50" stroke="#1f2a33" stroke-width="1.3" stroke-dasharray="4 3"/>
+  <line x1="515" y1="50" x2="515.0" y2="87.2" stroke="#1f2a33" stroke-width="1.3" stroke-dasharray="4 3"/>
+  <polygon points="515.00,92.00 512.00,86.80 518.00,86.80" fill="#1f2a33"/>
+  <text x="320" y="42" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">κινητή τηλεφωνία (eSIM)</text>
+  <line x1="350" y1="123" x2="431.2" y2="123.0" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="436.00,123.00 430.80,126.00 430.80,120.00" fill="#1f2a33"/>
+  <rect x="440" y="95" width="150" height="56" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="515.0" y="120.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">HES</text>
+  <text x="515.0" y="139.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">σύστημα συλλογής</text>
+  <rect x="680" y="95" width="150" height="56" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="755.0" y="120.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">MDMS</text>
+  <text x="755.0" y="139.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">δεδομένα μέτρησης</text>
+  <line x1="590" y1="116" x2="671.2" y2="116.0" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="676.00,116.00 670.80,119.00 670.80,113.00" fill="#1f2a33"/>
+  <line x1="676" y1="132" x2="598.0" y2="132.0" stroke="#8f2622" stroke-width="1.1"/>
+  <polygon points="594.00,132.00 598.33,129.50 598.33,134.50" fill="#8f2622"/>
+  <text x="635" y="160" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#8f2622" font-style="italic">εντολές</text>
+  <text x="395" y="86" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">WAN: 4G/5G · οπτικές ίνες</text>
+  <text x="300" y="186" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">DLMS/COSEM (IEC 62056)</text>
+  <rect x="238" y="250" width="124" height="44" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.3"/>
+  <text x="300" y="277" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#1f2a33">τιμολόγηση</text>
+  <line x1="755" y1="151" x2="304.6945059203144" y2="246.99919324336156" stroke="#1f2a33" stroke-width="1.2"/>
+  <polygon points="300.00,248.00 304.46,243.98 305.71,249.85" fill="#1f2a33"/>
+  <rect x="378" y="250" width="124" height="44" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.3"/>
+  <text x="440" y="277" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#1f2a33">προμηθευτές</text>
+  <line x1="755" y1="151" x2="444.58742424661193" y2="246.58736459707507" stroke="#1f2a33" stroke-width="1.2"/>
+  <polygon points="440.00,248.00 444.08,243.60 445.85,249.34" fill="#1f2a33"/>
+  <rect x="518" y="250" width="124" height="44" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.3"/>
+  <text x="580" y="277" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#1f2a33">πύλη χρηστών</text>
+  <line x1="755" y1="151" x2="584.198216137132" y2="245.67298876970395" stroke="#1f2a33" stroke-width="1.2"/>
+  <polygon points="580.00,248.00 583.09,242.86 586.00,248.10" fill="#1f2a33"/>
+  <rect x="658" y="250" width="124" height="44" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.3"/>
+  <text x="720" y="268" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#1f2a33">ADMS</text>
+  <text x="720" y="287" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">DSSE · VVO</text>
+  <line x1="755" y1="151" x2="721.6291495535463" y2="243.4849283801716" stroke="#1f2a33" stroke-width="1.2"/>
+  <polygon points="720.00,248.00 718.94,242.09 724.59,244.13" fill="#1f2a33"/>
+  <text x="20" y="326" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">μετρήσεις: ενέργεια ανά 15 min, τάση,</text>
+  <text x="20" y="344" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">συμβάντα ποιότητας και διακοπών · εντολές</text>
+  <text x="600" y="335" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">διάθεση ανά 15 λεπτά: ημερήσια ή σχεδόν σε πραγματικό χρόνο</text>
+</svg>

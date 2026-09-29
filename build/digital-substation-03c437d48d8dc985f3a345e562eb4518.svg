@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540">
+  <rect width="900" height="540" fill="#ffffff"/>
+  <text x="205" y="26" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">Συμβατικός υποσταθμός</text>
+  <text x="700" y="26" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">Ψηφιακός υποσταθμός (IEC 61850)</text>
+  <line x1="10" y1="182" x2="500" y2="182" stroke="#9aa7b2" stroke-width="0.9" stroke-dasharray="4 4"/>
+  <line x1="10" y1="292" x2="500" y2="292" stroke="#9aa7b2" stroke-width="0.9" stroke-dasharray="4 4"/>
+  <text x="450" y="116" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">επίπεδο</text>
+  <text x="450" y="134" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">σταθμού</text>
+  <text x="450" y="232" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">επίπεδο</text>
+  <text x="450" y="250" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">πεδίου</text>
+  <text x="450" y="412" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">επίπεδο</text>
+  <text x="450" y="430" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">διεργασίας</text>
+  <line x1="30" y1="345" x2="120" y2="345" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="65" y="335" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">ζυγός ΜΤ</text>
+  <line x1="100" y1="345" x2="100" y2="364" stroke="#1f2a33" stroke-width="2.2"/>
+  <rect x="92" y="364" width="16" height="16" fill="#ffffff" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="100" y1="380" x2="100" y2="490" stroke="#1f2a33" stroke-width="2.2"/>
+  <line x1="100" y1="490" x2="100.0" y2="499.4" stroke="#1f2a33" stroke-width="2.2"/>
+  <polygon points="100.00,505.00 96.50,498.94 103.50,498.94" fill="#1f2a33"/>
+  <circle cx="100" cy="405" r="9" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="85" y="410" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">CT</text>
+  <line x1="100" y1="430" x2="126" y2="430" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="126" y1="430" x2="126" y2="436.2" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="126.00" cy="444.12" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="126.00" cy="455.88" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="126" y="483" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">VT</text>
+  <text x="85" y="377" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">διακόπτης</text>
+  <text x="88" y="522" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">γραμμή ΜΤ</text>
+  <rect x="195" y="100" width="120" height="45" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="255.0" y="126.5" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">RTU</text>
+  <line x1="255" y1="100" x2="255.0" y2="59.6" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="255.00,54.00 258.50,60.06 251.50,60.06" fill="#1f2a33"/>
+  <text x="265" y="66" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">προς κέντρο ελέγχου</text>
+  <text x="265" y="84" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">IEC 60870-5-101/104</text>
+  <rect x="120" y="210" width="115" height="45" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="177.5" y="236.16666666666666" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#1f2a33">ηλεκτρονόμος</text>
+  <rect x="275" y="210" width="110" height="45" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="330.0" y="236.16666666666666" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#1f2a33">μετρητής</text>
+  <polyline points="108.00,370.50 246.00,370.50" fill="none" stroke="#8f2622" stroke-width="0.9"/>
+  <polyline points="108.00,373.50 246.00,373.50" fill="none" stroke="#8f2622" stroke-width="0.9"/>
+  <polyline points="109.00,403.50 246.00,403.50" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="109.00,406.50 246.00,406.50" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="134.00,454.50 246.00,454.50" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="134.00,457.50 246.00,457.50" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="249.00,461.00 249.00,286.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="252.00,461.00 252.00,286.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="255.00,461.00 255.00,286.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="258.00,461.00 258.00,286.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="261.00,461.00 261.00,286.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="252.00,286.00 252.00,275.00 175.00,275.00 175.00,255.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="255.00,286.00 255.00,272.00 178.00,272.00 178.00,255.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="258.00,286.00 258.00,269.00 181.00,269.00 181.00,255.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="252.00,286.00 252.00,269.00 327.00,269.00 327.00,255.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="255.00,286.00 255.00,272.00 330.00,272.00 330.00,255.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="258.00,286.00 258.00,275.00 333.00,275.00 333.00,255.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="252.00,286.00 252.00,145.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="255.00,286.00 255.00,145.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <polyline points="258.00,286.00 258.00,145.00" fill="none" stroke="#5b6b78" stroke-width="0.9"/>
+  <text x="182" y="363" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#8f2622" font-style="italic">εντολή ζεύξης</text>
+  <text x="270" y="406" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">χωριστό καλώδιο</text>
+  <text x="270" y="424" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">για κάθε σήμα</text>
+  <line x1="495" y1="345" x2="585" y2="345" stroke="#1f2a33" stroke-width="4.5"/>
+  <line x1="565" y1="345" x2="565" y2="364" stroke="#1f2a33" stroke-width="2.2"/>
+  <rect x="557" y="364" width="16" height="16" fill="#ffffff" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="565" y1="380" x2="565" y2="490" stroke="#1f2a33" stroke-width="2.2"/>
+  <line x1="565" y1="490" x2="565.0" y2="499.4" stroke="#1f2a33" stroke-width="2.2"/>
+  <polygon points="565.00,505.00 561.50,498.94 568.50,498.94" fill="#1f2a33"/>
+  <circle cx="565" cy="405" r="9" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="550" y="410" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">CT</text>
+  <line x1="565" y1="430" x2="591" y2="430" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="591" y1="430" x2="591" y2="436.2" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="591.00" cy="444.12" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="591.00" cy="455.88" r="7.92" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="591" y="483" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">VT</text>
+  <line x1="600" y1="182" x2="885" y2="182" stroke="#1f2a33" stroke-width="3.0"/>
+  <line x1="600" y1="292" x2="885" y2="292" stroke="#8f2622" stroke-width="3.0"/>
+  <text x="590" y="170" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78" font-style="italic">δίαυλος</text>
+  <text x="590" y="188" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78" font-style="italic">σταθμού</text>
+  <text x="590" y="206" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78" font-style="italic">MMS · GOOSE</text>
+  <text x="590" y="280" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#8f2622" font-style="italic">δίαυλος</text>
+  <text x="590" y="298" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#8f2622" font-style="italic">διεργασίας</text>
+  <text x="590" y="316" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#8f2622" font-style="italic">SV · GOOSE</text>
+  <rect x="580" y="100" width="110" height="45" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="635.0" y="119.5" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">πύλη</text>
+  <text x="635.0" y="138.5" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">επικοινωνίας</text>
+  <line x1="635" y1="100" x2="635.0" y2="59.6" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="635.00,54.00 638.50,60.06 631.50,60.06" fill="#1f2a33"/>
+  <text x="645" y="66" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">προς κέντρο ελέγχου</text>
+  <text x="645" y="84" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">IEC 60870-5-104</text>
+  <rect x="727" y="100" width="126" height="45" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="790.0" y="119.5" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">κύριο ρολόι</text>
+  <text x="790.0" y="138.5" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">GPS · PTP</text>
+  <line x1="635" y1="145" x2="635" y2="182" stroke="#1f2a33" stroke-width="1.6"/>
+  <circle cx="635" cy="182" r="3.2" fill="#1f2a33"/>
+  <line x1="790" y1="145" x2="790" y2="182" stroke="#1f2a33" stroke-width="1.6"/>
+  <circle cx="790" cy="182" r="3.2" fill="#1f2a33"/>
+  <rect x="602" y="212" width="126" height="44" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="665.0" y="237.66666666666666" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#1f2a33">IED προστασίας</text>
+  <rect x="770" y="212" width="110" height="44" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="825.0" y="237.66666666666666" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#1f2a33">IED ελέγχου</text>
+  <line x1="665" y1="212" x2="665" y2="182" stroke="#1f2a33" stroke-width="1.6"/>
+  <circle cx="665" cy="182" r="3.2" fill="#1f2a33"/>
+  <line x1="665" y1="256" x2="665" y2="292" stroke="#8f2622" stroke-width="1.6"/>
+  <circle cx="665" cy="292" r="3.2" fill="#8f2622"/>
+  <line x1="825" y1="212" x2="825" y2="182" stroke="#1f2a33" stroke-width="1.6"/>
+  <circle cx="825" cy="182" r="3.2" fill="#1f2a33"/>
+  <line x1="825" y1="256" x2="825" y2="292" stroke="#8f2622" stroke-width="1.6"/>
+  <circle cx="825" cy="292" r="3.2" fill="#8f2622"/>
+  <rect x="640" y="355" width="112" height="36" rx="4" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="696.0" y="376.6666666666667" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#1f2a33">IED διακόπτη</text>
+  <rect x="752" y="395" width="86" height="78" rx="4" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="795.0" y="438.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">MU</text>
+  <line x1="573" y1="372" x2="640" y2="372" stroke="#5b6b78" stroke-width="1.2"/>
+  <line x1="574" y1="405" x2="752" y2="405" stroke="#5b6b78" stroke-width="1.2"/>
+  <line x1="599" y1="456" x2="752" y2="456" stroke="#5b6b78" stroke-width="1.2"/>
+  <line x1="696" y1="355" x2="696" y2="292" stroke="#8f2622" stroke-width="1.6"/>
+  <circle cx="696" cy="292" r="3.2" fill="#8f2622"/>
+  <line x1="795" y1="395" x2="795" y2="292" stroke="#8f2622" stroke-width="1.6"/>
+  <circle cx="795" cy="292" r="3.2" fill="#8f2622"/>
+  <text x="704" y="326" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#8f2622" font-style="italic">GOOSE</text>
+  <text x="803" y="326" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#8f2622" font-style="italic">SV</text>
+  <text x="795" y="493" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">μονάδα</text>
+  <text x="795" y="511" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">συγχώνευσης</text>
+</svg>
