@@ -1,0 +1,112 @@
+---
+title: Βιβλιογραφία
+# Στο HTML η σελίδα εμφανίζεται χωρίς αριθμούς, ώστε να μη μοιάζει με ξεχωριστή ενότητα.
+# Οι μετρητές των επόμενων κεφαλαίων διατηρούνται χάρη στο tools/patch_myst_greek.py.
+numbering:
+  title: false
+---
+
+## Βιβλία αναφοράς
+
+- A. Abur and A. Gómez Expósito, *Power System State Estimation: Theory and
+  Implementation*. New York: Marcel Dekker, 2004.
+- P. Kundur, *Power System Stability and Control*. New York: McGraw-Hill, 1994.
+- A. Monticelli, *State Estimation in Electric Power Systems: A Generalized
+  Approach*. Boston, MA: Kluwer Academic Publishers, 1999.
+- A. G. Phadke and J. S. Thorp, *Synchronized Phasor Measurements and Their
+  Applications*, 2nd ed. Cham: Springer, 2017.
+- A. J. Wood, B. F. Wollenberg and G. B. Sheblé, *Power Generation, Operation, and
+  Control*, 3rd ed. Hoboken, NJ: Wiley, 2014.
+
+## Θεμελιώδεις εργασίες
+
+- T. E. Dy Liacco, «The Adaptive Reliability Control System», *IEEE Transactions
+  on Power Apparatus and Systems*, vol. PAS-86, no. 5, pp. 517–531, May 1967.
+  doi: `10.1109/TPAS.1967.291728`
+- E. Handschin, F. C. Schweppe, J. Kohlas and A. Fiechter, «Bad Data Analysis for Power
+  System State Estimation», *IEEE Transactions on Power Apparatus and Systems*,
+  vol. PAS-94, no. 2, pp. 329–337, Mar. 1975. doi: `10.1109/T-PAS.1975.31858`
+- M. R. Irving, R. C. Owen and M. J. H. Sterling, «Power-System State Estimation Using
+  Linear Programming», *Proceedings of the Institution of Electrical Engineers*,
+  vol. 125, no. 9, pp. 879–885, Sept. 1978. doi: `10.1049/piee.1978.0206`
+- A. Monticelli, «Electric Power System State Estimation», *Proceedings of the
+  IEEE*, vol. 88, no. 2, pp. 262–282, Feb. 2000.
+  doi: `10.1109/5.824004`
+- A. Monticelli, M. V. F. Pereira and S. Granville, «Security-Constrained Optimal Power Flow
+  with Post-Contingency Corrective Rescheduling», *IEEE Transactions on Power Systems*,
+  vol. 2, no. 1, pp. 175–180, Feb. 1987. doi: `10.1109/TPWRS.1987.4335095`
+- A. Monticelli and F. F. Wu, «Network Observability: Theory», *IEEE Transactions on Power
+  Apparatus and Systems*, vol. PAS-104, no. 5, pp. 1042–1048, May 1985.
+  doi: `10.1109/TPAS.1985.323454`
+- F. C. Schweppe and J. Wildes, «Power System Static-State Estimation, Part I: Exact
+  Model», *IEEE Transactions on Power Apparatus and Systems*, vol. PAS-89, no. 1,
+  pp. 120–125, Jan. 1970. doi: `10.1109/TPAS.1970.292678`
+- F. C. Schweppe and D. B. Rom, «Power System Static-State Estimation, Part II:
+  Approximate Model», *IEEE Transactions on Power Apparatus and Systems*,
+  vol. PAS-89, no. 1, pp. 125–130, Jan. 1970.
+- F. C. Schweppe, «Power System Static-State Estimation, Part III: Implementation»,
+  *IEEE Transactions on Power Apparatus and Systems*, vol. PAS-89, no. 1,
+  pp. 130–135, Jan. 1970.
+## Πρότυπα
+
+- IEC/IEEE 60255-118-1:2018, *Measuring Relays and Protection Equipment —
+  Part 118-1: Synchrophasor for Power Systems — Measurements*. IEC/IEEE, 2018.
+- IEEE Std C37.118.2-2024, *IEEE Standard for Synchrophasor Data Transfer for Power Systems*.
+  IEEE, 2024.
+- IEC 61850, *Communication Networks and Systems for Power Utility Automation*. IEC.
+- IEC 60870-5-104, *Telecontrol Equipment and Systems — Part 5-104: Network
+  Access for IEC 60870-5-101 Using Standard Transport Profiles*. IEC.
+- IEC 61970-301, *Energy Management System Application Program Interface (EMS-API) —
+  Part 301: Common Information Model (CIM) Base*. IEC.
+
+## Κανονιστικό πλαίσιο και Διαχειριστές
+
+- Commission Regulation (EU) 2017/1485 of 2 August 2017 establishing a guideline on
+  electricity transmission system operation (System Operation Guideline, SO GL).
+  *Official Journal of the European Union*, L 220, 25.8.2017.
+  [eur-lex.europa.eu/eli/reg/2017/1485/oj](https://eur-lex.europa.eu/eli/reg/2017/1485/oj)
+- Commission Regulation (EU) 2017/2195 of 23 November 2017 establishing a guideline on
+  electricity balancing (Electricity Balancing Guideline, EB GL). *Official Journal
+  of the European Union*, L 312, 28.11.2017.
+  [eur-lex.europa.eu/eli/reg/2017/2195/oj](https://eur-lex.europa.eu/eli/reg/2017/2195/oj)
+- Κανονισμός (ΕΕ) 2017/1485 της Επιτροπής, της 2ας Αυγούστου 2017, σχετικά με τον
+  καθορισμό κατευθυντήριων γραμμών για τη λειτουργία του συστήματος μεταφοράς
+  ηλεκτρικής ενέργειας, και Κανονισμός (ΕΕ) 2017/2195 της Επιτροπής, της 23ης Νοεμβρίου
+  2017, σχετικά με τον καθορισμό κατευθυντήριας γραμμής για την εξισορρόπηση ηλεκτρικής
+  ενέργειας. Ελληνικές εκδόσεις, *Επίσημη Εφημερίδα της Ευρωπαϊκής Ένωσης*,
+  L 220 και L 312, 2017. Πηγή της ελληνικής ορολογίας του κεφαλαίου.
+  [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:32017R1485)
+- ACER, *Decision No 07/2019 of 19 June 2019 on the Methodology for Coordinating Operational
+  Security Analysis (CSAM)*. Ορίζει τα προληπτικά και τα διορθωτικά (curative) μέτρα για όλους
+  τους ΔΣΜ.
+  [acer.europa.eu](https://www.acer.europa.eu/sites/default/files/documents/Individual%20Decisions_annex/ACER_Decision_CSAM-AnnexI_Rectified.pdf)
+- ΑΔΜΗΕ Α.Ε., *Κώδικας Διαχείρισης του Ελληνικού Συστήματος Μεταφοράς Ηλεκτρικής
+  Ενέργειας*.
+  [admie.gr](https://www.admie.gr/agora/rythmistiko-plaisio-agoras/kodikas-diaxeirisis-esmie)
+- ΑΔΜΗΕ Α.Ε., *Κανονισμός Αγοράς Εξισορρόπησης*.
+  [admie.gr](https://www.admie.gr/agora/rythmistiko-plaisio-agoras/kanonismos-agoras-eksisorropisis)
+- ΑΔΜΗΕ Α.Ε., *Τεχνική Απόφαση χειροκίνητης Εφεδρείας Αποκατάστασης Συχνότητας
+  (χΕΑΣ)*. [admie.gr](https://www.admie.gr/)
+- Ελληνικό Χρηματιστήριο Ενέργειας (ΕΧΕ), *Κανονισμός Αγοράς Επόμενης Ημέρας και
+  Ενδοημερήσιας Αγοράς*. [enexgroup.gr](https://www.enexgroup.gr/)
+- ENTSO-E, *Single Day-ahead Coupling (SDAC)*: σύζευξη επόμενης ημέρας και αγοραία χρονική
+  μονάδα 15 λεπτών. [entsoe.eu](https://www.entsoe.eu/network_codes/cacm/implementation/sdac/)
+- ENTSO-E, *PICASSO*: ευρωπαϊκή πλατφόρμα ανταλλαγής ενέργειας εξισορρόπησης από αΕΑΣ.
+  [entsoe.eu](https://www.entsoe.eu/network_codes/eb/picasso/)
+
+## Δεδομένα και διαδικτυακοί πόροι
+
+- ENTSO-E, *Grid Map*, διαδραστικός χάρτης του διασυνδεδεμένου συστήματος μεταφοράς.
+  [entsoe.eu/data/map](https://www.entsoe.eu/data/map/)
+- Fraunhofer ISE, *Energy-Charts*, συχνότητα δικτύου ανά 1 s (API), CC BY 4.0.
+  [energy-charts.info](https://www.energy-charts.info/charts/frequency/chart.htm?l=en)
+- gridradar, *Mains frequency*, συχνότητα της Ηπειρωτικής Ευρώπης σε πραγματικό χρόνο.
+  [gridradar.net](https://gridradar.net/en/mains-frequency)
+- Dr. Gobmaier GmbH, *Mains frequency: trend of the frequency*, συχνότητα της Ηπειρωτικής
+  Ευρώπης σε πραγματικό χρόνο. [mainsfrequency.com](https://mainsfrequency.com/verlauf_en.htm)
+- Ελληνικό Χρηματιστήριο Ενέργειας, *Αγορά Επόμενης Ημέρας: αποτελέσματα και διαγράμματα*.
+  [enexgroup.gr](https://www.enexgroup.gr/el/web/guest/day-ahead-market-figures)
+- ΑΔΜΗΕ Α.Ε., *Στατιστικά αγοράς: δεδομένα και File Download API*.
+  [admie.gr](https://www.admie.gr/agora/statistika-agoras/file-download-api)
+- Terna S.p.A., *Dispacciamento - Sala controllo*, φωτογραφία, CC BY-SA 3.0, Wikimedia Commons.
+  [commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:Dispacciamento_-_Sala_controllo.JPG)

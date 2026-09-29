@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
+  <rect width="900" height="470" fill="#ffffff"/>
+  <rect x="190" y="20" width="520" height="62" rx="4" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="450.0" y="48.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Τριτεύουσα ρύθμιση</text>
+  <text x="450.0" y="67.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">βέλτιστη ροή ισχύος στο κέντρο ελέγχου · 15 min έως ώρες</text>
+  <rect x="60" y="150" width="350" height="62" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="235.0" y="178.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Δευτερεύουσα ρύθμιση ζώνης Α</text>
+  <text x="235.0" y="197.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">ρύθμιση τάσης ζυγού-πιλότου · ~1 min</text>
+  <line x1="235" y1="82" x2="235.0" y2="142.4" stroke="#1f2a33" stroke-width="1.5"/>
+  <polygon points="235.00,148.00 231.50,141.94 238.50,141.94" fill="#1f2a33"/>
+  <rect x="490" y="150" width="350" height="62" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="665.0" y="178.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Δευτερεύουσα ρύθμιση ζώνης Β</text>
+  <text x="665.0" y="197.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">ρύθμιση τάσης ζυγού-πιλότου · ~1 min</text>
+  <line x1="665" y1="82" x2="665.0" y2="142.4" stroke="#1f2a33" stroke-width="1.5"/>
+  <polygon points="665.00,148.00 661.50,141.94 668.50,141.94" fill="#1f2a33"/>
+  <text x="450" y="122" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="middle" fill="#5b6b78" font-style="italic"><tspan font-size="15.95" dy="0">τάσεις αναφοράς V</tspan><tspan font-size="11.95" dy="4">p</tspan><tspan font-size="11.95" dy="-9">ref</tspan><tspan dy="5"> </tspan></text>
+  <rect x="40" y="278" width="190" height="50" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="135.0" y="307.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">AVR μονάδας 1</text>
+  <line x1="235" y1="212" x2="139.04290272317525" y2="273.41254225716784" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="135.00,276.00 137.76,270.67 140.99,275.73" fill="#1f2a33"/>
+  <line x1="135" y1="328" x2="135.0" y2="379.2" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="135.00,384.00 132.00,378.80 138.00,378.80" fill="#1f2a33"/>
+  <rect x="230" y="278" width="190" height="50" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="325.0" y="307.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">AVR μονάδας 2</text>
+  <line x1="235" y1="212" x2="321.08821444206995" y2="273.218285825472" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="325.00,276.00 319.03,275.43 322.50,270.54" fill="#1f2a33"/>
+  <line x1="325" y1="328" x2="325.0" y2="379.2" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="325.00,384.00 322.00,378.80 328.00,378.80" fill="#1f2a33"/>
+  <rect x="470" y="278" width="190" height="50" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="565.0" y="307.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">AVR μονάδας 3</text>
+  <line x1="665" y1="212" x2="569.0429027231753" y2="273.41254225716784" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="565.00,276.00 567.76,270.67 570.99,275.73" fill="#1f2a33"/>
+  <line x1="565" y1="328" x2="565.0" y2="379.2" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="565.00,384.00 562.00,378.80 568.00,378.80" fill="#1f2a33"/>
+  <rect x="660" y="278" width="190" height="50" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="755.0" y="307.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">μετατροπέας ΑΠΕ</text>
+  <line x1="665" y1="212" x2="751.08821444207" y2="273.218285825472" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="755.00,276.00 749.03,275.43 752.50,270.54" fill="#1f2a33"/>
+  <line x1="755" y1="328" x2="755.0" y2="379.2" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="755.00,384.00 752.00,378.80 758.00,378.80" fill="#1f2a33"/>
+  <text x="232" y="252" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">επίπεδο q</text>
+  <text x="662" y="252" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">επίπεδο q</text>
+  <text x="445" y="351" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">Πρωτεύουσα ρύθμιση</text>
+  <text x="445" y="369" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">κλάσματα s έως s</text>
+  <rect x="30" y="386" width="840" height="52" rx="4" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="450.0" y="416.3333333333333" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Δίκτυο μεταφοράς</text>
+  <line x1="36" y1="412" x2="14" y2="412" stroke="#8f2622" stroke-width="1.3" stroke-dasharray="5 3"/>
+  <line x1="14" y1="412" x2="14" y2="181" stroke="#8f2622" stroke-width="1.3" stroke-dasharray="5 3"/>
+  <line x1="14" y1="181" x2="53.2" y2="181.0" stroke="#8f2622" stroke-width="1.3" stroke-dasharray="5 3"/>
+  <polygon points="58.00,181.00 52.80,184.00 52.80,178.00" fill="#8f2622"/>
+  <line x1="864" y1="412" x2="886" y2="412" stroke="#8f2622" stroke-width="1.3" stroke-dasharray="5 3"/>
+  <line x1="886" y1="412" x2="886" y2="181" stroke="#8f2622" stroke-width="1.3" stroke-dasharray="5 3"/>
+  <line x1="886" y1="181" x2="846.8" y2="181.0" stroke="#8f2622" stroke-width="1.3" stroke-dasharray="5 3"/>
+  <polygon points="842.00,181.00 847.20,178.00 847.20,184.00" fill="#8f2622"/>
+  <text x="22" y="300" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#8f2622">V</text>
+  <text x="878" y="300" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="end" fill="#8f2622"><tspan font-size="15.95" dy="0">V</tspan><tspan font-size="11.95" dy="4">p</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="450" y1="386" x2="450.0" y2="372.08" stroke="#ffffff" stroke-width="0.1"/>
+  <polygon points="450.00,372.00 450.05,372.09 449.95,372.09" fill="#ffffff"/>
+  <text x="450" y="462" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">Οι διακεκομμένες γραμμές είναι η ανάδραση της τάσης του ζυγού-πιλότου κάθε ζώνης.</text>
+</svg>

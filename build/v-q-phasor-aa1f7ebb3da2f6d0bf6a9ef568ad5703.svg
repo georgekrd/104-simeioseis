@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400">
+  <rect width="900" height="400" fill="#ffffff"/>
+  <text x="220" y="40" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">Γραμμή δύο ζυγών</text>
+  <line x1="70" y1="160" x2="70" y2="260" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="70" y="146" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">Ζυγός 1</text>
+  <text x="70" y="292" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#5b6b78"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">1</tspan><tspan font-size="17.4" dy="-4"> ∠ δ</tspan></text>
+  <line x1="370" y1="160" x2="370" y2="260" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="370" y="146" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">Ζυγός 2</text>
+  <text x="370" y="292" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#5b6b78"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">2</tspan><tspan font-size="17.4" dy="-4"> ∠ 0</tspan></text>
+  <line x1="70" y1="210" x2="185" y2="210" stroke="#1f2a33" stroke-width="1.8"/>
+  <rect x="185" y="196" width="70" height="28" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="220" y="216" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">jX</text>
+  <line x1="255" y1="210" x2="370" y2="210" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="272" y1="192" x2="346.4" y2="192.0" stroke="#8f2622" stroke-width="1.6"/>
+  <polygon points="352.00,192.00 345.94,195.50 345.94,188.50" fill="#8f2622"/>
+  <text x="312" y="180" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#8f2622">P + jQ</text>
+  <line x1="92" y1="228" x2="166.4" y2="228.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="172.00,228.00 165.94,231.50 165.94,224.50" fill="#1f2a33"/>
+  <text x="132" y="252" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">I</text>
+  <line x1="445" y1="24" x2="445" y2="380" stroke="#5b6b78" stroke-width="1.1" stroke-dasharray="5 4"/>
+  <text x="675" y="40" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">Διανυσματικό διάγραμμα</text>
+  <line x1="750" y1="300" x2="818.8291723621255" y2="300" stroke="#8f2622" stroke-width="1.6" stroke-dasharray="5 3"/>
+  <line x1="818.8291723621255" y1="300" x2="818.8291723621255" y2="201.70175468532096" stroke="#8f2622" stroke-width="1.6" stroke-dasharray="5 3"/>
+  <text x="784.4145861810628" y="324" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="middle" fill="#8f2622"><tspan font-size="15.95" dy="0">XQ / V</tspan><tspan font-size="11.95" dy="4">2</tspan><tspan dy="-4"> </tspan></text>
+  <text x="826.8291723621255" y="255.85087734266048" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="start" fill="#8f2622"><tspan font-size="15.95" dy="0">XP / V</tspan><tspan font-size="11.95" dy="4">2</tspan><tspan dy="-4"> </tspan></text>
+  <path d="M 572 300 A 92 92 0 0 0 568.4 274.4" fill="none" stroke="#5b6b78" stroke-width="1.2"/>
+  <text x="582.9652650958498" y="290.36599221876065" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#5b6b78">δ</text>
+  <path d="M 542 300 A 62 62 0 0 1 530.8 335.6" fill="none" stroke="#5b6b78" stroke-width="1.2"/>
+  <text x="550.5750543553688" y="328.2522291633162" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#5b6b78">φ</text>
+  <line x1="480" y1="300" x2="742.8" y2="300.0" stroke="#1f2a33" stroke-width="2.2"/>
+  <polygon points="750.00,300.00 742.21,304.50 742.21,295.50" fill="#1f2a33"/>
+  <line x1="480" y1="300" x2="811.914288878941" y2="203.70784202489054" stroke="#1f2a33" stroke-width="2.2"/>
+  <polygon points="818.83,201.70 812.60,208.20 810.09,199.55" fill="#1f2a33"/>
+  <line x1="750" y1="300" x2="815.1582831694789" y2="206.9443277687705" stroke="#8f2622" stroke-width="2.0"/>
+  <polygon points="818.83,201.70 818.13,209.67 811.58,205.08" fill="#8f2622"/>
+  <line x1="480" y1="300" x2="564.8641517883395" y2="359.42251880596837" stroke="#5b6b78" stroke-width="1.8"/>
+  <polygon points="570.11,363.09 562.14,362.40 566.73,355.84" fill="#5b6b78"/>
+  <text x="628.5" y="324" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">2</tspan><tspan dy="-4"> </tspan></text>
+  <text x="637.4145861810628" y="238.85087734266048" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">1</tspan><tspan dy="-4"> </tspan></text>
+  <text x="770.4145861810628" y="252.85087734266048" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#8f2622">jX·I</text>
+  <text x="580.1067248717891" y="369.0934079986151" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="start" fill="#5b6b78">I</text>
+</svg>

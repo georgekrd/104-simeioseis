@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="316" viewBox="0 0 900 316">
+  <rect width="900" height="316" fill="#ffffff"/>
+  <rect x="20" y="40" width="170" height="64" rx="4" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="105.0" y="69.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Δίκτυο</text>
+  <text x="105.0" y="88.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">σύστημα μεταφοράς</text>
+  <rect x="222" y="40" width="170" height="64" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="307.0" y="69.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">VT / CT</text>
+  <text x="307.0" y="88.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">μετασχ. μέτρησης</text>
+  <rect x="424" y="40" width="170" height="64" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="509.0" y="69.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">IED · RTU</text>
+  <text x="509.0" y="88.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">υποσταθμός</text>
+  <rect x="710" y="40" width="170" height="64" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="795.0" y="69.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">SCADA</text>
+  <text x="795.0" y="88.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">κέντρο ελέγχου</text>
+  <line x1="190" y1="72.0" x2="212.4" y2="72.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="218.00,72.00 211.94,75.50 211.94,68.50" fill="#1f2a33"/>
+  <line x1="392" y1="72.0" x2="414.4" y2="72.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="420.00,72.00 413.94,75.50 413.94,68.50" fill="#1f2a33"/>
+  <line x1="594" y1="72.0" x2="700.4" y2="72.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="706.00,72.00 699.94,75.50 699.94,68.50" fill="#1f2a33"/>
+  <text x="652" y="62.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">IEC 60870-5-104</text>
+  <text x="652" y="94.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">ανά 2–10 s</text>
+  <rect x="10" y="174" width="880" height="128" rx="8" fill="none" stroke="#5b6b78" stroke-width="1.1" stroke-dasharray="5 4"/>
+  <rect x="322" y="164" width="296" height="20" fill="#ffffff"/>
+  <text x="470" y="179" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">EMS · σύστημα διαχείρισης ενέργειας</text>
+  <rect x="20" y="214" width="170" height="64" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="105.0" y="243.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">OPF</text>
+  <text x="105.0" y="262.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">διορθωτικά μέτρα</text>
+  <rect x="222" y="214" width="170" height="64" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="307.0" y="243.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Ανάλυση ασφάλειας</text>
+  <text x="307.0" y="262.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">απρόβλεπτα συμβάντα</text>
+  <rect x="424" y="214" width="170" height="64" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="509.0" y="243.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Εκτίμηση</text>
+  <text x="509.0" y="262.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">κατάστασης</text>
+  <rect x="710" y="214" width="170" height="64" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="795.0" y="243.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Τοπολογία</text>
+  <text x="795.0" y="262.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">μοντέλο ζυγών-κλάδων</text>
+  <line x1="222" y1="246.0" x2="199.6" y2="246.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="194.00,246.00 200.06,242.50 200.06,249.50" fill="#1f2a33"/>
+  <line x1="424" y1="246.0" x2="401.6" y2="246.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="396.00,246.00 402.06,242.50 402.06,249.50" fill="#1f2a33"/>
+  <line x1="710" y1="246.0" x2="603.6" y2="246.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="598.00,246.00 604.06,242.50 604.06,249.50" fill="#1f2a33"/>
+  <line x1="795" y1="108" x2="795.0" y2="202.4" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="795.00,208.00 791.50,201.94 798.50,201.94" fill="#8f2622"/>
+  <text x="783" y="138" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#8f2622" font-style="italic">μετρήσεις</text>
+  <text x="783" y="154" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#8f2622" font-style="italic">θέσεις διακοπτών</text>
+  <line x1="105" y1="212" x2="105.0" y2="115.6" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="105.00,110.00 108.50,116.06 101.50,116.06" fill="#8f2622"/>
+  <text x="117" y="138" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#8f2622" font-style="italic">εντολές ελέγχου</text>
+  <text x="117" y="154" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">μέσω SCADA · RTU</text>
+</svg>

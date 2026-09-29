@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="770" height="870" viewBox="0 0 770 870">
+  <rect width="770" height="870" fill="#ffffff"/>
+  <polygon points="168.0,20 450.0,20 432.0,78 150.0,78" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="300.0" y="46.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Μετρήσεις SCADA / PMU</text>
+  <text x="300.0" y="65.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">θέσεις διακοπτών</text>
+  <rect x="150.0" y="108" width="300" height="56" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="300.0" y="133.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Επεξεργαστής τοπολογίας</text>
+  <text x="300.0" y="152.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">μοντέλο ζυγών-κλάδων</text>
+  <polygon points="300,194.0 420.0,236 300,278.0 180.0,236" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="300" y="240.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">Παρατηρήσιμο;</text>
+  <rect x="150.0" y="308" width="300" height="48" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="300.0" y="336.3333333333333" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" text-anchor="middle" fill="#1f2a33"><tspan font-size="18.849999999999998" dy="0">Αρχική εκτίμηση x</tspan><tspan font-size="14.849999999999998" dy="-5">0</tspan><tspan dy="5"> </tspan></text>
+  <rect x="150.0" y="386" width="300" height="58" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="300.0" y="412.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Σχηματισμός H, G</text>
+  <text x="300.0" y="431.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">επίλυση κανονικών εξισώσεων</text>
+  <polygon points="300,479.0 420.0,520 300,561.0 180.0,520" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="300" y="524.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">max|Δx| &lt; ε ;</text>
+  <rect x="150.0" y="592" width="300" height="48" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="300.0" y="620.3333333333334" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Υπολογισμός J(x̂)</text>
+  <polygon points="300,670.0 415.0,708 300,746.0 185.0,708" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="300" y="712.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33"><tspan font-size="17.4" dy="0">J(x̂) &gt; χ</tspan><tspan font-size="13.399999999999999" dy="-5">2</tspan><tspan font-size="17.4" dy="5"> ;</tspan></text>
+  <polygon points="168.0,778 450.0,778 432.0,832 150.0,832" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="300.0" y="809.3333333333334" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Εκτιμώμενη κατάσταση x̂</text>
+  <text x="300" y="858" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">→ ανάλυση απρόβλεπτων συμβάντων</text>
+  <line x1="300" y1="78" x2="300.0" y2="98.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="300.00,104.00 296.50,97.94 303.50,97.94" fill="#1f2a33"/>
+  <line x1="300" y1="164" x2="300.0" y2="184.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="300.00,190.00 296.50,183.94 303.50,183.94" fill="#1f2a33"/>
+  <line x1="300" y1="278" x2="300.0" y2="298.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="300.00,304.00 296.50,297.94 303.50,297.94" fill="#1f2a33"/>
+  <text x="310" y="297" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78">ναι</text>
+  <line x1="300" y1="356" x2="300.0" y2="376.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="300.00,382.00 296.50,375.94 303.50,375.94" fill="#1f2a33"/>
+  <line x1="300" y1="444" x2="300.0" y2="469.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="300.00,475.00 296.50,468.94 303.50,468.94" fill="#1f2a33"/>
+  <line x1="300" y1="561" x2="300.0" y2="582.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="300.00,588.00 296.50,581.94 303.50,581.94" fill="#1f2a33"/>
+  <text x="310" y="580" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78">ναι</text>
+  <line x1="300" y1="640" x2="300.0" y2="660.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="300.00,666.00 296.50,659.94 303.50,659.94" fill="#1f2a33"/>
+  <line x1="300" y1="746" x2="300.0" y2="768.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="300.00,774.00 296.50,767.94 303.50,767.94" fill="#1f2a33"/>
+  <text x="310" y="766" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78">όχι</text>
+  <rect x="506" y="212" width="210" height="48" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="611.0" y="240.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">Ψευδομετρήσεις</text>
+  <line x1="420" y1="236" x2="496.4" y2="236.0" stroke="#5b6b78" stroke-width="1.4"/>
+  <polygon points="502.00,236.00 495.94,239.50 495.94,232.50" fill="#5b6b78"/>
+  <text x="461" y="226" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">όχι</text>
+  <line x1="611" y1="260" x2="611" y2="332" stroke="#5b6b78" stroke-width="1.4"/>
+  <line x1="611" y1="332" x2="459.6" y2="332.0" stroke="#5b6b78" stroke-width="1.4"/>
+  <polygon points="454.00,332.00 460.06,328.50 460.06,335.50" fill="#5b6b78"/>
+  <line x1="180" y1="520" x2="78" y2="520" stroke="#5b6b78" stroke-width="1.4"/>
+  <line x1="78" y1="520" x2="78" y2="415" stroke="#5b6b78" stroke-width="1.4"/>
+  <line x1="78" y1="415" x2="140.4" y2="415.0" stroke="#5b6b78" stroke-width="1.4"/>
+  <polygon points="146.00,415.00 139.94,418.50 139.94,411.50" fill="#5b6b78"/>
+  <text x="168" y="510" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">όχι</text>
+  <rect x="494" y="684" width="232" height="48" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="610.0" y="712.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="middle" fill="#1f2a33"><tspan font-size="17.4" dy="0">Απόρριψη μέγιστου r</tspan><tspan font-size="13.399999999999999" dy="-5">N</tspan><tspan dy="5"> </tspan></text>
+  <line x1="415" y1="708" x2="484.4" y2="708.0" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="490.00,708.00 483.94,711.50 483.94,704.50" fill="#8f2622"/>
+  <text x="452" y="698" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#8f2622">ναι</text>
+  <line x1="726" y1="708" x2="744" y2="708" stroke="#8f2622" stroke-width="1.4"/>
+  <line x1="744" y1="708" x2="744" y2="415" stroke="#8f2622" stroke-width="1.4"/>
+  <line x1="744" y1="415" x2="459.6" y2="415.0" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="454.00,415.00 460.06,411.50 460.06,418.50" fill="#8f2622"/>
+</svg>

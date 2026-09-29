@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="530" viewBox="0 0 900 530">
+  <rect width="900" height="530" fill="#ffffff"/>
+  <text x="40" y="50" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="start" fill="#1f2a33">Παράλληλη σύνδεση</text>
+  <line x1="110" y1="104" x2="480" y2="104" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="110" y1="76" x2="110" y2="132" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="98" y="109" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="end" fill="#5b6b78"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">1</tspan><tspan font-size="17.4" dy="-4">∠θ</tspan><tspan font-size="13.399999999999999" dy="4">1</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="480" y1="76" x2="480" y2="132" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="492" y="109" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="start" fill="#5b6b78"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">2</tspan><tspan font-size="17.4" dy="-4">∠θ</tspan><tspan font-size="13.399999999999999" dy="4">2</tspan><tspan dy="-4"> </tspan></text>
+  <rect x="200" y="92" width="56" height="24" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="228.0" y="110" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">X</text>
+  <circle cx="395" cy="104" r="3.4" fill="#1f2a33"/>
+  <line x1="395" y1="104" x2="395" y2="134" stroke="#1f2a33" stroke-width="1.6"/>
+  <rect x="320.0" y="134" width="150" height="32" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="395.0" y="154.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">SVC · STATCOM</text>
+  <line x1="395" y1="166" x2="395" y2="176" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="384.0" y1="176.0" x2="406.0" y2="176.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="388.0" y1="180.5" x2="402.0" y2="180.5" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="391.5" y1="185.0" x2="398.5" y2="185.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="660" y="111" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="end" fill="#1f2a33"><tspan font-size="20.3" dy="0">P</tspan><tspan font-size="16.3" dy="4">12</tspan><tspan font-size="20.3" dy="-4"> =</tspan></text>
+  <text x="760.0" y="93" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="middle" fill="#1f2a33"><tspan font-size="20.3" dy="0" fill="#1f2a33">V</tspan><tspan font-size="16.3" dy="4" fill="#1f2a33">1</tspan><tspan font-size="20.3" dy="-4" fill="#8f2622" font-weight="bold">V</tspan><tspan font-size="16.3" dy="4" fill="#8f2622" font-weight="bold">2</tspan><tspan font-size="20.3" dy="-4"> sin(</tspan><tspan font-size="20.3" dy="0" fill="#1f2a33">θ</tspan><tspan font-size="16.3" dy="4" fill="#1f2a33">1</tspan><tspan font-size="20.3" dy="-4" fill="#1f2a33"> − θ</tspan><tspan font-size="16.3" dy="4" fill="#1f2a33">2</tspan><tspan font-size="20.3" dy="-4">)</tspan></text>
+  <line x1="670" y1="102" x2="850" y2="102" stroke="#1f2a33" stroke-width="1.2"/>
+  <text x="760.0" y="126" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="middle" fill="#1f2a33"><tspan font-size="20.3" dy="0" fill="#1f2a33">X</tspan></text>
+  <text x="730" y="160" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">έλεγχος της τάσης μέσω άεργης ισχύος</text>
+  <text x="40" y="216" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="start" fill="#1f2a33">Σειριακή σύνδεση</text>
+  <line x1="110" y1="270" x2="480" y2="270" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="110" y1="242" x2="110" y2="298" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="98" y="275" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="end" fill="#5b6b78"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">1</tspan><tspan font-size="17.4" dy="-4">∠θ</tspan><tspan font-size="13.399999999999999" dy="4">1</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="480" y1="242" x2="480" y2="298" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="492" y="275" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="start" fill="#5b6b78"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">2</tspan><tspan font-size="17.4" dy="-4">∠θ</tspan><tspan font-size="13.399999999999999" dy="4">2</tspan><tspan dy="-4"> </tspan></text>
+  <rect x="160" y="258" width="56" height="24" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="188.0" y="276" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">X</text>
+  <rect x="265" y="254" width="160" height="32" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="345.0" y="274.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">TCSC · SSSC</text>
+  <text x="660" y="277" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="end" fill="#1f2a33"><tspan font-size="20.3" dy="0">P</tspan><tspan font-size="16.3" dy="4">12</tspan><tspan font-size="20.3" dy="-4"> =</tspan></text>
+  <text x="760.0" y="259" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="middle" fill="#1f2a33"><tspan font-size="20.3" dy="0" fill="#1f2a33">V</tspan><tspan font-size="16.3" dy="4" fill="#1f2a33">1</tspan><tspan font-size="20.3" dy="-4" fill="#1f2a33">V</tspan><tspan font-size="16.3" dy="4" fill="#1f2a33">2</tspan><tspan font-size="20.3" dy="-4"> sin(</tspan><tspan font-size="20.3" dy="0" fill="#1f2a33">θ</tspan><tspan font-size="16.3" dy="4" fill="#1f2a33">1</tspan><tspan font-size="20.3" dy="-4" fill="#1f2a33"> − θ</tspan><tspan font-size="16.3" dy="4" fill="#1f2a33">2</tspan><tspan font-size="20.3" dy="-4">)</tspan></text>
+  <line x1="670" y1="268" x2="850" y2="268" stroke="#1f2a33" stroke-width="1.2"/>
+  <text x="760.0" y="292" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="middle" fill="#1f2a33"><tspan font-size="20.3" dy="0" fill="#8f2622" font-weight="bold">X</tspan></text>
+  <text x="730" y="326" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">έλεγχος της ισοδύναμης αντίδρασης σειράς</text>
+  <text x="40" y="382" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="start" fill="#1f2a33">Συνδυασμένη σύνδεση (UPFC)</text>
+  <line x1="110" y1="436" x2="480" y2="436" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="110" y1="408" x2="110" y2="464" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="98" y="441" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="end" fill="#5b6b78"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">1</tspan><tspan font-size="17.4" dy="-4">∠θ</tspan><tspan font-size="13.399999999999999" dy="4">1</tspan><tspan dy="-4"> </tspan></text>
+  <line x1="480" y1="408" x2="480" y2="464" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="492" y="441" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="start" fill="#5b6b78"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">2</tspan><tspan font-size="17.4" dy="-4">∠θ</tspan><tspan font-size="13.399999999999999" dy="4">2</tspan><tspan dy="-4"> </tspan></text>
+  <circle cx="175" cy="436" r="3.4" fill="#1f2a33"/>
+  <line x1="175" y1="436" x2="175" y2="466" stroke="#1f2a33" stroke-width="1.6"/>
+  <rect x="120.0" y="466" width="110" height="32" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="175.0" y="486.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">παράλληλος</text>
+  <line x1="175" y1="498" x2="175" y2="508" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="164.0" y1="508.0" x2="186.0" y2="508.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="168.0" y1="512.5" x2="182.0" y2="512.5" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="171.5" y1="517.0" x2="178.5" y2="517.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <rect x="270" y="420" width="110" height="32" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="325.0" y="440.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">σειριακός</text>
+  <rect x="410" y="424" width="50" height="24" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="435.0" y="442" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">X</text>
+  <polyline points="230.00,482.00 325.00,482.00 325.00,452.00" fill="none" stroke="#1f2a33" stroke-width="1.6"/>
+  <text x="337" y="487" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">κοινός ζυγός ΣΡ</text>
+  <text x="660" y="443" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="end" fill="#1f2a33"><tspan font-size="20.3" dy="0">P</tspan><tspan font-size="16.3" dy="4">12</tspan><tspan font-size="20.3" dy="-4"> =</tspan></text>
+  <text x="760.0" y="425" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="middle" fill="#1f2a33"><tspan font-size="20.3" dy="0" fill="#8f2622" font-weight="bold">V</tspan><tspan font-size="16.3" dy="4" fill="#8f2622" font-weight="bold">1</tspan><tspan font-size="20.3" dy="-4" fill="#1f2a33">V</tspan><tspan font-size="16.3" dy="4" fill="#1f2a33">2</tspan><tspan font-size="20.3" dy="-4"> sin(</tspan><tspan font-size="20.3" dy="0" fill="#8f2622" font-weight="bold">θ</tspan><tspan font-size="16.3" dy="4" fill="#8f2622" font-weight="bold">1</tspan><tspan font-size="20.3" dy="-4" fill="#8f2622" font-weight="bold"> − θ</tspan><tspan font-size="16.3" dy="4" fill="#8f2622" font-weight="bold">2</tspan><tspan font-size="20.3" dy="-4">)</tspan></text>
+  <line x1="670" y1="434" x2="850" y2="434" stroke="#1f2a33" stroke-width="1.2"/>
+  <text x="760.0" y="458" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="middle" fill="#1f2a33"><tspan font-size="20.3" dy="0" fill="#8f2622" font-weight="bold">X</tspan></text>
+  <text x="730" y="492" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">έλεγχος τάσης, αντίδρασης και γωνίας</text>
+</svg>
