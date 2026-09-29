@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1000" viewBox="0 0 900 1000">
+  <rect width="900" height="1000" fill="#ffffff"/>
+  <text x="225" y="34" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">SVC</text>
+  <text x="225" y="56" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">μεταβλητή επιδεκτικότητα</text>
+  <line x1="70" y1="100" x2="380" y2="100" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="84" y="90" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33" font-style="italic">V</text>
+  <line x1="225" y1="100" x2="225" y2="111" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="225" cy="121.7" r="11" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="225" cy="150.3" r="11" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="252" y="140" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">Μ/Σ</text>
+  <line x1="225" y1="161" x2="225" y2="180" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="140" y1="180" x2="310" y2="180" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="225" cy="180" r="3.2" fill="#1f2a33"/>
+  <line x1="140" y1="180" x2="140" y2="196" stroke="#1f2a33" stroke-width="1.4"/>
+  <path d="M 140 196 a 7 6.666666666666667 0 0 1 0 13.33 a 7 6.666666666666667 0 0 1 0 13.33 a 7 6.666666666666667 0 0 1 0 13.33" fill="none" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="140" y1="236" x2="140" y2="250" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="131.0" y1="250.0" x2="131.0" y2="280.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="149.0" y1="250.0" x2="149.0" y2="280.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="131.0" y1="250.0" x2="149.0" y2="250.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="131.0" y1="280.0" x2="149.0" y2="280.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="126.0,259 136.0,259 131.0,267" fill="#1f2a33"/>
+  <line x1="125.0" y1="267" x2="137.0" y2="267" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="137.0" y1="267" x2="142.0" y2="272" stroke="#1f2a33" stroke-width="1.1"/>
+  <polygon points="144.0,271 154.0,271 149.0,263" fill="#1f2a33"/>
+  <line x1="143.0" y1="263" x2="155.0" y2="263" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="140" y1="280" x2="140" y2="296" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="129.0" y1="296.0" x2="151.0" y2="296.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="133.0" y1="300.5" x2="147.0" y2="300.5" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="136.5" y1="305.0" x2="143.5" y2="305.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="140" y="336" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">TCR</text>
+  <text x="140" y="356" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">συνεχής ρύθμιση</text>
+  <line x1="310" y1="180" x2="310" y2="206" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="300.0" y1="206" x2="320.0" y2="206" stroke="#1f2a33" stroke-width="2.2"/>
+  <line x1="300.0" y1="213" x2="320.0" y2="213" stroke="#1f2a33" stroke-width="2.2"/>
+  <line x1="310" y1="213" x2="310" y2="250" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="301.0" y1="250.0" x2="301.0" y2="280.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="319.0" y1="250.0" x2="319.0" y2="280.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="301.0" y1="250.0" x2="319.0" y2="250.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="301.0" y1="280.0" x2="319.0" y2="280.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="296.0,259 306.0,259 301.0,267" fill="#1f2a33"/>
+  <line x1="295.0" y1="267" x2="307.0" y2="267" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="307.0" y1="267" x2="312.0" y2="272" stroke="#1f2a33" stroke-width="1.1"/>
+  <polygon points="314.0,271 324.0,271 319.0,263" fill="#1f2a33"/>
+  <line x1="313.0" y1="263" x2="325.0" y2="263" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="310" y1="280" x2="310" y2="296" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="299.0" y1="296.0" x2="321.0" y2="296.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="303.0" y1="300.5" x2="317.0" y2="300.5" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="306.5" y1="305.0" x2="313.5" y2="305.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="310" y="336" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">TSC</text>
+  <text x="310" y="356" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">βηματική ρύθμιση</text>
+  <text x="675" y="34" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">STATCOM</text>
+  <text x="675" y="56" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">ελεγχόμενη πηγή τάσης</text>
+  <line x1="520" y1="100" x2="830" y2="100" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="534" y="90" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33" font-style="italic">V</text>
+  <line x1="675" y1="100" x2="675" y2="111" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="675" cy="121.7" r="11" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="675" cy="150.3" r="11" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="702" y="140" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">Μ/Σ σύζευξης</text>
+  <line x1="675" y1="161" x2="675" y2="192" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="687" y="182" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" text-anchor="start" fill="#1f2a33"><tspan font-size="17.4" dy="0">V</tspan><tspan font-size="13.399999999999999" dy="4">μ</tspan><tspan dy="-4"> </tspan></text>
+  <rect x="637" y="192" width="76" height="58" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="652.2" y1="238.4" x2="697.8" y2="203.6" stroke="#5b6b78" stroke-width="1.2"/>
+  <path d="M 649.3 209.4 q 4.5 -8 9 0 t 9 0" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="683.72" y1="230.76" x2="699.72" y2="230.76" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="683.72" y1="236.76" x2="699.72" y2="236.76" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="629" y="226.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="end" fill="#1f2a33">VSC</text>
+  <line x1="657" y1="250" x2="657" y2="280" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="657" y1="280" x2="670.5" y2="280" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="693" y1="250" x2="693" y2="280" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="693" y1="280" x2="679.5" y2="280" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="670.5" y1="268.0" x2="670.5" y2="292.0" stroke="#1f2a33" stroke-width="2.2"/>
+  <line x1="679.5" y1="268.0" x2="679.5" y2="292.0" stroke="#1f2a33" stroke-width="2.2"/>
+  <text x="708" y="286" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">πυκνωτής ΣΡ</text>
+  <text x="675" y="332" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="middle" fill="#8f2622"><tspan font-size="15.95" dy="0">V</tspan><tspan font-size="11.95" dy="4">μ</tspan><tspan font-size="15.95" dy="-4"> &gt; V  →  έγχυση Q</tspan></text>
+  <text x="675" y="356" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="middle" fill="#8f2622"><tspan font-size="15.95" dy="0">V</tspan><tspan font-size="11.95" dy="4">μ</tspan><tspan font-size="15.95" dy="-4"> &lt; V  →  απορρόφηση Q</tspan></text>
+  <text x="225" y="412" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">TCSC</text>
+  <text x="225" y="434" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">μεταβλητή αντίδραση σειράς</text>
+  <line x1="50" y1="496" x2="218" y2="496" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="218" y1="479.0" x2="218" y2="513.0" stroke="#1f2a33" stroke-width="2.2"/>
+  <line x1="232" y1="479.0" x2="232" y2="513.0" stroke="#1f2a33" stroke-width="2.2"/>
+  <line x1="232" y1="496" x2="400" y2="496" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="225" y="468" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">πυκνωτής σειράς</text>
+  <circle cx="140" cy="496" r="3.2" fill="#1f2a33"/>
+  <line x1="140" y1="496" x2="140" y2="556" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="310" cy="496" r="3.2" fill="#1f2a33"/>
+  <line x1="310" y1="496" x2="310" y2="556" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="140" y1="556" x2="166" y2="556" stroke="#1f2a33" stroke-width="1.4"/>
+  <path d="M 166 556 a 9.333333333333334 7 0 0 1 18.67 0 a 9.333333333333334 7 0 0 1 18.67 0 a 9.333333333333334 7 0 0 1 18.67 0" fill="none" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="222" y1="556" x2="254" y2="556" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="254.0" y1="545.0" x2="286.0" y2="545.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="254.0" y1="567.0" x2="286.0" y2="567.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="254.0" y1="545.0" x2="254.0" y2="567.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="286.0" y1="545.0" x2="286.0" y2="567.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="265,540.0 265,550.0 273,545.0" fill="#1f2a33"/>
+  <line x1="273" y1="539.0" x2="273" y2="551.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="273" y1="539.0" x2="278" y2="534.0" stroke="#1f2a33" stroke-width="1.1"/>
+  <polygon points="275,562.0 275,572.0 267,567.0" fill="#1f2a33"/>
+  <line x1="267" y1="561.0" x2="267" y2="573.0" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="286" y1="556" x2="310" y2="556" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="225" y="600" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">πηνίο ελεγχόμενο με θυρίστορ (TCR)</text>
+  <text x="675" y="412" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">SSSC</text>
+  <text x="675" y="434" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">έγχυση τάσης σε σειρά</text>
+  <line x1="520" y1="496" x2="663" y2="496" stroke="#1f2a33" stroke-width="1.8"/>
+  <circle cx="675" cy="496.0" r="12" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="675" cy="511.6" r="12" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="687" y1="496" x2="850" y2="496" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="675" y="476" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" text-anchor="middle" fill="#1f2a33"><tspan font-size="18.849999999999998" dy="0">V</tspan><tspan font-size="14.849999999999998" dy="4">σ</tspan><tspan dy="-4"> </tspan></text>
+  <text x="703" y="526" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">Μ/Σ σειράς</text>
+  <line x1="772" y1="496" x2="819.6" y2="496.0" stroke="#8f2622" stroke-width="1.8"/>
+  <polygon points="826.00,496.00 819.07,500.00 819.07,492.00" fill="#8f2622"/>
+  <text x="799" y="486" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#8f2622" font-style="italic">I</text>
+  <line x1="675" y1="523.6" x2="675" y2="548" stroke="#1f2a33" stroke-width="1.4"/>
+  <rect x="637" y="548" width="76" height="58" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="652.2" y1="594.4" x2="697.8" y2="559.6" stroke="#5b6b78" stroke-width="1.2"/>
+  <path d="M 649.3 565.4 q 4.5 -8 9 0 t 9 0" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="683.72" y1="586.76" x2="699.72" y2="586.76" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="683.72" y1="592.76" x2="699.72" y2="592.76" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="629" y="582.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="end" fill="#1f2a33">VSC</text>
+  <line x1="657" y1="606" x2="657" y2="636" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="657" y1="636" x2="670.5" y2="636" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="693" y1="606" x2="693" y2="636" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="693" y1="636" x2="679.5" y2="636" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="670.5" y1="624.0" x2="670.5" y2="648.0" stroke="#1f2a33" stroke-width="2.2"/>
+  <line x1="679.5" y1="624.0" x2="679.5" y2="648.0" stroke="#1f2a33" stroke-width="2.2"/>
+  <text x="708" y="642" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">πυκνωτής ΣΡ</text>
+  <text x="675" y="690" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="middle" fill="#5b6b78" font-style="italic"><tspan font-size="15.95" dy="0">η </tspan><tspan font-size="15.95" dy="0">V</tspan><tspan font-size="11.95" dy="4">σ</tspan><tspan font-size="15.95" dy="-4"> δεν εξαρτάται από το </tspan><tspan font-size="15.95" dy="0">I</tspan></text>
+  <text x="450" y="740" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">UPFC</text>
+  <text x="450" y="762" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">δύο μετατροπείς με κοινό ζυγό ΣΡ</text>
+  <line x1="60" y1="820" x2="548" y2="820" stroke="#1f2a33" stroke-width="1.8"/>
+  <circle cx="560" cy="820.0" r="12" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="560" cy="835.6" r="12" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="572" y1="820" x2="840" y2="820" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="560" y="800" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" text-anchor="middle" fill="#1f2a33"><tspan font-size="18.849999999999998" dy="0">V</tspan><tspan font-size="14.849999999999998" dy="4">σ</tspan><tspan dy="-4"> </tspan></text>
+  <text x="588" y="850" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">Μ/Σ σειράς</text>
+  <line x1="722" y1="820" x2="769.6" y2="820.0" stroke="#8f2622" stroke-width="1.8"/>
+  <polygon points="776.00,820.00 769.07,824.00 769.07,816.00" fill="#8f2622"/>
+  <text x="749" y="810" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#8f2622" font-style="italic">I</text>
+  <circle cx="250" cy="820" r="3.2" fill="#1f2a33"/>
+  <line x1="250" y1="820" x2="250" y2="831" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="250" cy="841.7" r="11" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <circle cx="250" cy="870.3" r="11" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="222" y="860" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78" font-style="italic">παράλληλος Μ/Σ</text>
+  <line x1="250" y1="881" x2="250" y2="896" stroke="#1f2a33" stroke-width="1.4"/>
+  <rect x="212" y="896" width="76" height="58" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="227.2" y1="942.4" x2="272.8" y2="907.6" stroke="#5b6b78" stroke-width="1.2"/>
+  <path d="M 224.3 913.4 q 4.5 -8 9 0 t 9 0" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="258.72" y1="934.76" x2="274.72" y2="934.76" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="258.72" y1="940.76" x2="274.72" y2="940.76" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="250.0" y="972" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">VSC 1</text>
+  <line x1="560" y1="847.6" x2="560" y2="896" stroke="#1f2a33" stroke-width="1.4"/>
+  <rect x="522" y="896" width="76" height="58" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="537.2" y1="907.6" x2="582.8" y2="942.4" stroke="#5b6b78" stroke-width="1.2"/>
+  <path d="M 567.7 913.4 q 4.5 -8 9 0 t 9 0" fill="none" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="535.28" y1="934.76" x2="551.28" y2="934.76" stroke="#1f2a33" stroke-width="1.5"/>
+  <line x1="535.28" y1="940.76" x2="551.28" y2="940.76" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="560.0" y="972" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">VSC 2</text>
+  <line x1="288" y1="910" x2="522" y2="910" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="288" y1="940" x2="522" y2="940" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="405" y1="910" x2="405" y2="920" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="392.0" y1="920" x2="418.0" y2="920" stroke="#1f2a33" stroke-width="2.2"/>
+  <line x1="392.0" y1="930" x2="418.0" y2="930" stroke="#1f2a33" stroke-width="2.2"/>
+  <line x1="405" y1="930" x2="405" y2="940" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="318" y1="888" x2="485.6" y2="888.0" stroke="#8f2622" stroke-width="1.8"/>
+  <polygon points="492.00,888.00 485.07,892.00 485.07,884.00" fill="#8f2622"/>
+  <text x="405" y="878" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#8f2622" font-style="italic">P</text>
+  <text x="405" y="962" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">κοινός ζυγός ΣΡ</text>
+  <text x="250" y="994" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">στήριξη τάσης · ανταλλαγή P</text>
+  <text x="560" y="994" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="middle" fill="#5b6b78" font-style="italic"><tspan font-size="15.95" dy="0">έγχυση </tspan><tspan font-size="15.95" dy="0">V</tspan><tspan font-size="11.95" dy="4">σ</tspan><tspan font-size="15.95" dy="-4"> με μέτρο και γωνία</tspan></text>
+</svg>

@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540">
+  <rect width="900" height="540" fill="#ffffff"/>
+  <text x="280" y="30" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">Μοντέλο κόμβων-διακοπτών</text>
+  <text x="760" y="30" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">Μοντέλο ζυγών-κλάδων</text>
+  <text x="30" y="72" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="bold" text-anchor="start" fill="#1f2a33">(α) Διακόπτης ζεύξης κλειστός</text>
+  <rect x="36" y="100" width="488" height="116" rx="8" fill="#eef2f6" stroke="#5b6b78" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="518" y="94" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#8f2622" font-style="italic">ζυγός 1</text>
+  <line x1="50" y1="124" x2="220" y2="124" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="135.0" y="114" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">τμήμα Α</text>
+  <line x1="340" y1="124" x2="510" y2="124" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="425.0" y="114" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">τμήμα Β</text>
+  <line x1="220" y1="124" x2="235" y2="124" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="243,116 251,124 243,132 235,124" fill="#1f2a33"/>
+  <line x1="251" y1="124" x2="271" y2="124" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="261" cy="124" r="3.2" fill="#1f2a33"/>
+  <rect x="271" y="115" width="18" height="18" fill="#8f2622" stroke="#8f2622" stroke-width="1.8"/>
+  <line x1="289" y1="124" x2="309" y2="124" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="299" cy="124" r="3.2" fill="#1f2a33"/>
+  <polygon points="317,116 325,124 317,132 309,124" fill="#1f2a33"/>
+  <line x1="325" y1="124" x2="340" y2="124" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="280" y="158" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#8f2622" font-style="italic">ζεύξη ζυγών</text>
+  <line x1="90" y1="124" x2="90" y2="132" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="90,140 98,148 90,156 82,148" fill="#1f2a33"/>
+  <line x1="90" y1="156" x2="90" y2="176" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="90" cy="168" r="3.2" fill="#1f2a33"/>
+  <rect x="81" y="176" width="18" height="18" fill="#1f2a33" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="90" y1="194" x2="90" y2="208" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="90" cy="208" r="3.2" fill="#1f2a33"/>
+  <line x1="90" y1="208" x2="90.0" y2="234.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="90.00,240.00 86.50,233.94 93.50,233.94" fill="#1f2a33"/>
+  <text x="90" y="262" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">προς Υ/Σ 2</text>
+  <line x1="180" y1="124" x2="180" y2="132" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="180,140 188,148 180,156 172,148" fill="#1f2a33"/>
+  <line x1="180" y1="156" x2="180" y2="176" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="180" cy="168" r="3.2" fill="#1f2a33"/>
+  <rect x="171" y="176" width="18" height="18" fill="#1f2a33" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="180" y1="194" x2="180" y2="208" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="180" cy="208" r="3.2" fill="#1f2a33"/>
+  <line x1="180" y1="208" x2="180" y2="224" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="180" cy="238" r="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="180" y="243" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">G</text>
+  <line x1="380" y1="124" x2="380" y2="132" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="380,140 388,148 380,156 372,148" fill="#1f2a33"/>
+  <line x1="380" y1="156" x2="380" y2="176" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="380" cy="168" r="3.2" fill="#1f2a33"/>
+  <rect x="371" y="176" width="18" height="18" fill="#1f2a33" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="380" y1="194" x2="380" y2="208" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="380" cy="208" r="3.2" fill="#1f2a33"/>
+  <line x1="380" y1="208" x2="380.0" y2="234.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="380.00,240.00 376.50,233.94 383.50,233.94" fill="#1f2a33"/>
+  <text x="380" y="262" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">προς Υ/Σ 3</text>
+  <line x1="470" y1="124" x2="470" y2="132" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="470,140 478,148 470,156 462,148" fill="#1f2a33"/>
+  <line x1="470" y1="156" x2="470" y2="176" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="470" cy="168" r="3.2" fill="#1f2a33"/>
+  <rect x="461" y="176" width="18" height="18" fill="#1f2a33" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="470" y1="194" x2="470" y2="208" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="470" cy="208" r="3.2" fill="#1f2a33"/>
+  <line x1="470" y1="208" x2="470.0" y2="234.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="470.00,240.00 466.50,233.94 473.50,233.94" fill="#1f2a33"/>
+  <text x="470" y="262" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">φορτίο</text>
+  <line x1="532" y1="150" x2="623.6" y2="150.0" stroke="#5b6b78" stroke-width="1.4"/>
+  <polygon points="630.00,150.00 623.07,154.00 623.07,146.00" fill="#5b6b78"/>
+  <circle cx="650" cy="150" r="13" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="650" y="155" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">2</text>
+  <circle cx="870" cy="150" r="13" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="870" y="155" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">3</text>
+  <text x="650" y="186" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">Υ/Σ 2</text>
+  <text x="870" y="186" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">Υ/Σ 3</text>
+  <rect x="690" y="136" width="140" height="28" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="760.0" y="154.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">1</text>
+  <line x1="663" y1="150" x2="690" y2="150" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="830" y1="150" x2="857" y2="150" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="718" y1="164" x2="718" y2="190" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="718" cy="204" r="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="718" y="209" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">G</text>
+  <line x1="802" y1="164" x2="802.0" y2="200.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="802.00,206.00 798.50,199.94 805.50,199.94" fill="#1f2a33"/>
+  <text x="802" y="228" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">φορτίο</text>
+  <text x="586" y="120" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">επεξεργαστής</text>
+  <text x="586" y="137" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τοπολογίας</text>
+  <text x="30" y="296" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="bold" text-anchor="start" fill="#1f2a33">(β) Διακόπτης ζεύξης ανοικτός</text>
+  <rect x="36" y="324" width="234" height="116" rx="8" fill="#eef2f6" stroke="#5b6b78" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="264" y="318" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#8f2622" font-style="italic">ζυγός 1α</text>
+  <rect x="290" y="324" width="234" height="116" rx="8" fill="#f7efee" stroke="#5b6b78" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="518" y="318" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#8f2622" font-style="italic">ζυγός 1β</text>
+  <line x1="50" y1="348" x2="220" y2="348" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="135.0" y="338" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">τμήμα Α</text>
+  <line x1="340" y1="348" x2="510" y2="348" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="425.0" y="338" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">τμήμα Β</text>
+  <line x1="220" y1="348" x2="235" y2="348" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="243,340 251,348 243,356 235,348" fill="#1f2a33"/>
+  <line x1="251" y1="348" x2="271" y2="348" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="261" cy="348" r="3.2" fill="#1f2a33"/>
+  <rect x="271" y="339" width="18" height="18" fill="#ffffff" stroke="#8f2622" stroke-width="1.8"/>
+  <line x1="289" y1="348" x2="309" y2="348" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="299" cy="348" r="3.2" fill="#1f2a33"/>
+  <polygon points="317,340 325,348 317,356 309,348" fill="#1f2a33"/>
+  <line x1="325" y1="348" x2="340" y2="348" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="90" y1="348" x2="90" y2="356" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="90,364 98,372 90,380 82,372" fill="#1f2a33"/>
+  <line x1="90" y1="380" x2="90" y2="400" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="90" cy="392" r="3.2" fill="#1f2a33"/>
+  <rect x="81" y="400" width="18" height="18" fill="#1f2a33" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="90" y1="418" x2="90" y2="432" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="90" cy="432" r="3.2" fill="#1f2a33"/>
+  <line x1="90" y1="432" x2="90.0" y2="458.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="90.00,464.00 86.50,457.94 93.50,457.94" fill="#1f2a33"/>
+  <text x="90" y="486" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">προς Υ/Σ 2</text>
+  <line x1="180" y1="348" x2="180" y2="356" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="180,364 188,372 180,380 172,372" fill="#1f2a33"/>
+  <line x1="180" y1="380" x2="180" y2="400" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="180" cy="392" r="3.2" fill="#1f2a33"/>
+  <rect x="171" y="400" width="18" height="18" fill="#1f2a33" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="180" y1="418" x2="180" y2="432" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="180" cy="432" r="3.2" fill="#1f2a33"/>
+  <line x1="180" y1="432" x2="180" y2="448" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="180" cy="462" r="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="180" y="467" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">G</text>
+  <line x1="380" y1="348" x2="380" y2="356" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="380,364 388,372 380,380 372,372" fill="#1f2a33"/>
+  <line x1="380" y1="380" x2="380" y2="400" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="380" cy="392" r="3.2" fill="#1f2a33"/>
+  <rect x="371" y="400" width="18" height="18" fill="#1f2a33" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="380" y1="418" x2="380" y2="432" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="380" cy="432" r="3.2" fill="#1f2a33"/>
+  <line x1="380" y1="432" x2="380.0" y2="458.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="380.00,464.00 376.50,457.94 383.50,457.94" fill="#1f2a33"/>
+  <text x="380" y="486" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">προς Υ/Σ 3</text>
+  <line x1="470" y1="348" x2="470" y2="356" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="470,364 478,372 470,380 462,372" fill="#1f2a33"/>
+  <line x1="470" y1="380" x2="470" y2="400" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="470" cy="392" r="3.2" fill="#1f2a33"/>
+  <rect x="461" y="400" width="18" height="18" fill="#1f2a33" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="470" y1="418" x2="470" y2="432" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="470" cy="432" r="3.2" fill="#1f2a33"/>
+  <line x1="470" y1="432" x2="470.0" y2="458.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="470.00,464.00 466.50,457.94 473.50,457.94" fill="#1f2a33"/>
+  <text x="470" y="486" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">φορτίο</text>
+  <line x1="532" y1="374" x2="623.6" y2="374.0" stroke="#5b6b78" stroke-width="1.4"/>
+  <polygon points="630.00,374.00 623.07,378.00 623.07,370.00" fill="#5b6b78"/>
+  <circle cx="650" cy="374" r="13" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="650" y="379" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">2</text>
+  <circle cx="870" cy="374" r="13" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="870" y="379" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">3</text>
+  <text x="650" y="410" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">Υ/Σ 2</text>
+  <text x="870" y="410" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">Υ/Σ 3</text>
+  <rect x="690" y="360" width="56" height="28" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="718.0" y="378.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">1α</text>
+  <rect x="774" y="360" width="56" height="28" rx="4" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="802.0" y="378.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">1β</text>
+  <line x1="663" y1="374" x2="690" y2="374" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="830" y1="374" x2="857" y2="374" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="718" y1="388" x2="718" y2="414" stroke="#1f2a33" stroke-width="1.4"/>
+  <circle cx="718" cy="428" r="14" fill="#ffffff" stroke="#1f2a33" stroke-width="1.5"/>
+  <text x="718" y="433" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">G</text>
+  <line x1="802" y1="388" x2="802.0" y2="424.4" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="802.00,430.00 798.50,423.94 805.50,423.94" fill="#1f2a33"/>
+  <text x="802" y="452" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">φορτίο</text>
+  <rect x="71.34375" y="508" width="18" height="18" fill="#1f2a33" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="95.34375" y="522" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78">κλειστός διακόπτης ισχύος</text>
+  <rect x="315.78125" y="508" width="18" height="18" fill="#ffffff" stroke="#1f2a33" stroke-width="1.8"/>
+  <text x="339.78125" y="522" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78">ανοικτός διακόπτης ισχύος</text>
+  <polygon points="569.21875,509 577.21875,517 569.21875,525 561.21875,517" fill="#1f2a33"/>
+  <text x="584.21875" y="522" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78">αποζεύκτης</text>
+  <circle cx="688.59375" cy="517" r="3.2" fill="#1f2a33"/>
+  <text x="703.59375" y="522" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78">κόμβος σύνδεσης</text>
+</svg>

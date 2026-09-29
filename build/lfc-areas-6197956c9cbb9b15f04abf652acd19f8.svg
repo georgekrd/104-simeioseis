@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+  <rect width="900" height="330" fill="#ffffff"/>
+  <text x="215" y="34" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">Απομονωμένο σύστημα</text>
+  <rect x="120" y="60" width="190" height="52" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="215.0" y="84.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Περιοχή</text>
+  <text x="215.0" y="101.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">παραγωγή + φορτίο</text>
+  <rect x="120" y="178" width="190" height="50" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="215.0" y="207.33333333333334" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Ελεγκτής ΕΑΣ</text>
+  <line x1="215" y1="112" x2="215.0" y2="168.4" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="215.00,174.00 211.50,167.94 218.50,167.94" fill="#8f2622"/>
+  <text x="224" y="148" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="start" fill="#8f2622" font-style="italic">Δf</text>
+  <line x1="120" y1="203" x2="60" y2="203" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="60" y1="203" x2="60" y2="86" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="60" y1="86" x2="110.4" y2="86.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="116.00,86.00 109.94,89.50 109.94,82.50" fill="#1f2a33"/>
+  <text x="52" y="148" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="end" fill="#1f2a33" font-style="italic">ΔP</text>
+  <rect x="96" y="258" width="238" height="44" rx="4" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="215" y="285" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="middle" fill="#1f2a33"><tspan font-size="20.3" dy="0">ACE = K · Δf</tspan></text>
+  <text x="215" y="320" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">μοναδικό κριτήριο: η συχνότητα</text>
+  <line x1="430" y1="25" x2="430" y2="305" stroke="#5b6b78" stroke-width="1.1" stroke-dasharray="5 4"/>
+  <text x="670" y="34" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">Διασυνδεδεμένο σύστημα</text>
+  <rect x="480" y="60" width="165" height="52" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="562.5" y="90.33333333333333" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Περιοχή A</text>
+  <rect x="700" y="60" width="165" height="52" rx="4" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="782.5" y="84.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">Περιοχή B</text>
+  <text x="782.5" y="101.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">διαταραχή</text>
+  <line x1="645" y1="86" x2="700" y2="86" stroke="#1f2a33" stroke-width="2.6"/>
+  <text x="672" y="76" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="middle" fill="#5b6b78" font-style="italic"><tspan font-size="15.95" dy="0">ΔP</tspan><tspan font-size="11.95" dy="4">tie</tspan><tspan dy="-4"> </tspan></text>
+  <text x="672" y="128" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">γραμμή διασύνδεσης</text>
+  <rect x="468" y="168" width="190" height="50" rx="4" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="563" y="199" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="middle" fill="#1f2a33"><tspan font-size="20.3" dy="0">ACE</tspan><tspan font-size="16.3" dy="4">A</tspan><tspan font-size="20.3" dy="-4"> ≈ 0</tspan></text>
+  <rect x="688" y="168" width="190" height="50" rx="4" fill="#ffffff" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="783" y="199" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="middle" fill="#1f2a33"><tspan font-size="20.3" dy="0">ACE</tspan><tspan font-size="16.3" dy="4">B</tspan><tspan font-size="20.3" dy="-4"> ≠ 0</tspan></text>
+  <line x1="562" y1="112" x2="562.0" y2="158.4" stroke="#5b6b78" stroke-width="1.4"/>
+  <polygon points="562.00,164.00 558.50,157.94 565.50,157.94" fill="#5b6b78"/>
+  <line x1="782" y1="112" x2="782.0" y2="158.4" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="782.00,164.00 778.50,157.94 785.50,157.94" fill="#8f2622"/>
+  <rect x="468" y="244" width="410" height="44" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="673" y="271" font-family="Libertinus Serif, Times New Roman, serif" font-size="20.3" text-anchor="middle" fill="#1f2a33"><tspan font-size="20.3" dy="0">ACE = ΔP</tspan><tspan font-size="16.3" dy="4">tie</tspan><tspan font-size="20.3" dy="-4"> + K · Δf</tspan></text>
+  <text x="673" y="312" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">οι δύο όροι αλληλοαναιρούνται στην περιοχή χωρίς διαταραχή</text>
+</svg>

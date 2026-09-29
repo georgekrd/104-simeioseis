@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350">
+  <rect width="900" height="350" fill="#ffffff"/>
+  <polygon points="142.3,36.0 142.3,280.0 173.7,280.0 456.2,99.7 770.0,99.7 770.0,36.0" fill="#eef2f6" stroke="none"/>
+  <polygon points="142.3,280.0 173.7,280.0 456.2,99.7 770.0,99.7 770.0,280.0" fill="#f7efee" stroke="none"/>
+  <line x1="142.30769230769232" y1="36" x2="142.30769230769232" y2="280" stroke="#5b6b78" stroke-width="1.0" stroke-dasharray="4 4"/>
+  <line x1="85" y1="173.91304347826087" x2="90" y2="173.91304347826087" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="82" y="177.91304347826087" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">0,5</text>
+  <line x1="85" y1="99.65217391304347" x2="90" y2="99.65217391304347" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="82" y="103.65217391304347" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">0,85</text>
+  <line x1="85" y1="67.82608695652172" x2="90" y2="67.82608695652172" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="82" y="71.82608695652172" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">1</text>
+  <line x1="90" y1="280" x2="770" y2="280" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="90" y1="36" x2="90" y2="280" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="142.30769230769232" y1="280" x2="142.30769230769232" y2="285" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="142.30769230769232" y="300" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">0</text>
+  <line x1="246.92307692307693" y1="280" x2="246.92307692307693" y2="285" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="246.92307692307693" y="300" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">0,5</text>
+  <line x1="351.53846153846155" y1="280" x2="351.53846153846155" y2="285" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="351.53846153846155" y="300" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">1</text>
+  <line x1="456.15384615384613" y1="280" x2="456.15384615384613" y2="285" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="456.15384615384613" y="300" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">1,5</text>
+  <line x1="560.7692307692307" y1="280" x2="560.7692307692307" y2="285" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="560.7692307692307" y="300" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">2</text>
+  <line x1="665.3846153846154" y1="280" x2="665.3846153846154" y2="285" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="665.3846153846154" y="300" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">2,5</text>
+  <line x1="770.0" y1="280" x2="770.0" y2="285" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="770.0" y="300" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">3</text>
+  <text x="430.0" y="324" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">χρόνος (s)</text>
+  <text x="90" y="24" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">U (p.u.)</text>
+  <polyline points="142.31,280.00 173.69,280.00 456.15,99.65 770.00,99.65" fill="none" stroke="#1f2a33" stroke-width="2.4"/>
+  <polyline points="90.00,67.83 142.31,67.83 142.31,226.96 167.42,226.96 167.42,131.48 171.60,128.37 175.78,125.42 179.97,122.61 184.15,119.94 188.34,117.40 192.52,114.98 196.71,112.68 200.89,110.49 205.08,108.41 209.26,106.43 213.45,104.55 217.63,102.76 221.82,101.06 226.00,99.43 230.18,97.89 234.37,96.43 238.55,95.03 242.74,93.71 246.92,92.44 251.11,91.24 255.29,90.10 259.48,89.01 263.66,87.98 267.85,87.00 272.03,86.06 276.22,85.17 280.40,84.33 284.58,83.52 288.77,82.76 292.95,82.03 297.14,81.34 301.32,80.68 305.51,80.05 309.69,79.45 313.88,78.89 318.06,78.35 322.25,77.83 326.43,77.35 330.62,76.88 334.80,76.44 338.98,76.02 343.17,75.62 347.35,75.24 351.54,74.88 355.72,74.53 359.91,74.21 364.09,73.90 368.28,73.60 372.46,73.32 376.65,73.05 380.83,72.80 385.02,72.55 389.20,72.32 393.38,72.10 397.57,71.90 401.75,71.70 405.94,71.51 410.12,71.33 414.31,71.16 418.49,71.00 422.68,70.84 426.86,70.69 431.05,70.55 435.23,70.42 439.42,70.29 443.60,70.17 447.78,70.06 451.97,69.95 456.15,69.85 460.34,69.75 464.52,69.65 468.71,69.57 472.89,69.48 477.08,69.40 481.26,69.32 485.45,69.25 489.63,69.18 493.82,69.11 498.00,69.05 502.18,68.99 506.37,68.94 510.55,68.88 514.74,68.83 518.92,68.78 523.11,68.73 527.29,68.69 531.48,68.65 535.66,68.61 539.85,68.57 544.03,68.53 548.22,68.50 552.40,68.47 556.58,68.43 560.77,68.41 564.95,68.38 569.14,68.35 573.32,68.32 577.51,68.30 581.69,68.28 585.88,68.25 590.06,68.23 594.25,68.21 598.43,68.20 602.62,68.18 606.80,68.16 610.98,68.14 615.17,68.13 619.35,68.11 623.54,68.10 627.72,68.09 631.91,68.07 636.09,68.06 640.28,68.05 644.46,68.04 648.65,68.03 652.83,68.02 657.02,68.01 661.20,68.00 665.38,67.99 669.57,67.98 673.75,67.98 677.94,67.97 682.12,67.96 686.31,67.96 690.49,67.95 694.68,67.94 698.86,67.94 703.05,67.93 707.23,67.93 711.42,67.92 715.60,67.92 719.78,67.91 723.97,67.91 728.15,67.90 732.34,67.90 736.52,67.90 740.71,67.89 744.89,67.89 749.08,67.89 753.26,67.88 757.45,67.88 761.63,67.88 765.82,67.88 770.00,67.87" fill="none" stroke="#8f2622" stroke-width="2.2"/>
+  <text x="560.7692307692307" y="51.7913043478261" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">παραμονή σε λειτουργία</text>
+  <text x="581.6923076923076" y="209.73913043478262" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">επιτρέπεται η αποσύνδεση</text>
+  <text x="136.03076923076924" y="248.17391304347825" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#8f2622" font-style="italic">σφάλμα</text>
+  <text x="184.15384615384616" y="152.69565217391306" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#8f2622" font-style="italic">απομόνωση του σφάλματος</text>
+  <text x="462.15384615384613" y="91.65217391304347" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#1f2a33" font-style="italic">0,85 p.u. στα 1,5 s</text>
+</svg>

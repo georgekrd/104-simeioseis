@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="312" viewBox="0 0 470 312">
+  <rect width="470" height="312" fill="#ffffff"/>
+  <rect x="72" y="30" width="368" height="232" fill="#fbfcfd"/>
+  <line x1="72" y1="235.23076923076923" x2="440" y2="235.23076923076923" stroke="#5b6b78" stroke-width="1.0" stroke-dasharray="4 4"/>
+  <line x1="72" y1="146.0" x2="440" y2="146.0" stroke="#5b6b78" stroke-width="1.0" stroke-dasharray="4 4"/>
+  <line x1="72" y1="56.7692307692308" x2="440" y2="56.7692307692308" stroke="#5b6b78" stroke-width="1.0" stroke-dasharray="4 4"/>
+  <line x1="72" y1="262" x2="440" y2="262" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="72" y1="30" x2="72" y2="262" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="72.0" y1="262" x2="72.0" y2="267" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="72.0" y="282" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">0,90</text>
+  <line x1="163.99999999999983" y1="262" x2="163.99999999999983" y2="267" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="163.99999999999983" y="282" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">0,95</text>
+  <line x1="255.9999999999999" y1="262" x2="255.9999999999999" y2="267" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="255.9999999999999" y="282" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">1</text>
+  <line x1="347.99999999999994" y1="262" x2="347.99999999999994" y2="267" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="347.99999999999994" y="282" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">1,05</text>
+  <line x1="440.0" y1="262" x2="440.0" y2="267" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="440.0" y="282" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78">1,10</text>
+  <line x1="67" y1="235.23076923076923" x2="72" y2="235.23076923076923" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="64" y="239.23076923076923" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">−1</text>
+  <line x1="67" y1="146.0" x2="72" y2="146.0" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="64" y="150.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">0</text>
+  <line x1="67" y1="56.7692307692308" x2="72" y2="56.7692307692308" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="64" y="60.7692307692308" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">1</text>
+  <text x="256.0" y="306" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τάση U (p.u.)</text>
+  <text x="72" y="20" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="middle" fill="#5b6b78" font-style="italic"><tspan font-size="15.95" dy="0">Q / Q</tspan><tspan font-size="11.95" dy="4">max</tspan><tspan dy="-4"> </tspan></text>
+  <text x="82" y="105.38461538461539" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">παραγωγή ↑</text>
+  <text x="82" y="194.6153846153846" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">απορρόφηση ↓</text>
+  <line x1="182.39999999999986" y1="56.7692307692308" x2="182.39999999999986" y2="39.38461538461539" stroke="#5b6b78" stroke-width="1.0" stroke-dasharray="2 3"/>
+  <line x1="255.9999999999999" y1="146.0" x2="255.9999999999999" y2="39.38461538461539" stroke="#5b6b78" stroke-width="1.0" stroke-dasharray="2 3"/>
+  <line x1="219.19999999999987" y1="43.38461538461539" x2="187.39999999999986" y2="43.38461538461539" stroke="#1f2a33" stroke-width="1.1"/>
+  <polygon points="183.40,43.38 187.73,40.88 187.73,45.88" fill="#1f2a33"/>
+  <line x1="219.19999999999987" y1="43.38461538461539" x2="250.9999999999999" y2="43.38461538461539" stroke="#1f2a33" stroke-width="1.1"/>
+  <polygon points="255.00,43.38 250.67,45.88 250.67,40.88" fill="#1f2a33"/>
+  <text x="219.19999999999987" y="35.38461538461539" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="middle" fill="#1f2a33"><tspan font-size="15.95" dy="0">s U</tspan><tspan font-size="11.95" dy="4">n</tspan><tspan dy="-4"> </tspan></text>
+  <polyline points="72.00,56.77 182.40,56.77 329.60,235.23 440.00,235.23" fill="none" stroke="#8f2622" stroke-width="2.6"/>
+  <circle cx="256.0" cy="146.0" r="4" fill="#1f2a33"/>
+  <text x="264.9999999999999" y="137.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="start" fill="#1f2a33"><tspan font-size="15.95" dy="0">U</tspan><tspan font-size="11.95" dy="4">ref</tspan><tspan dy="-4"> </tspan></text>
+  <text x="321.19999999999993" y="199.0769230769231" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#8f2622" font-style="italic">κλίση −1/s</text>
+</svg>
