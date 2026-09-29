@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
+  <rect width="900" height="470" fill="#ffffff"/>
+  <text x="450" y="34" font-family="Libertinus Serif, Times New Roman, serif" font-size="16" font-weight="normal" text-anchor="middle" fill="#1f2a33">P₁₂ = (V₁V₂ / X) · sin(δ₁ − δ₂)</text>
+  <text x="450" y="54" font-family="Libertinus Serif, Times New Roman, serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">τρία ελεγχόμενα μεγέθη: η τάση V, η αντίδραση X, η γωνία δ</text>
+  <text x="30" y="96" font-family="Libertinus Serif, Times New Roman, serif" font-size="12" font-weight="bold" text-anchor="start" fill="#1f2a33">Παράλληλης σύνδεσης</text>
+  <line x1="150" y1="110" x2="150" y2="170" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="150" y="188" font-family="Libertinus Serif, Times New Roman, serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="#5b6b78">V₁∠δ₁</text>
+  <line x1="560" y1="110" x2="560" y2="170" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="560" y="188" font-family="Libertinus Serif, Times New Roman, serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="#5b6b78">V₂∠δ₂</text>
+  <line x1="150" y1="140" x2="560" y2="140" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="355" y1="140" x2="355" y2="162" stroke="#1f2a33" stroke-width="1.8"/>
+  <rect x="298" y="162" width="114" height="34" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="355.0" y="182.66666666666666" font-family="Libertinus Serif, Times New Roman, serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="#1f2a33">SVC · STATCOM</text>
+  <line x1="340.0" y1="202" x2="370.0" y2="202" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="345.0" y1="207" x2="365.0" y2="207" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="350.0" y1="212" x2="360.0" y2="212" stroke="#1f2a33" stroke-width="1.6"/>
+  <line x1="600" y1="140" x2="641.2" y2="140.0" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="646.00,140.00 640.80,143.00 640.80,137.00" fill="#8f2622"/>
+  <text x="654" y="144" font-family="Libertinus Serif, Times New Roman, serif" font-size="12" font-weight="normal" text-anchor="start" fill="#8f2622">ελέγχει το V</text>
+  <text x="30" y="228" font-family="Libertinus Serif, Times New Roman, serif" font-size="12" font-weight="bold" text-anchor="start" fill="#1f2a33">Σειριακής σύνδεσης</text>
+  <line x1="150" y1="242" x2="150" y2="302" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="150" y="320" font-family="Libertinus Serif, Times New Roman, serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="#5b6b78">V₁∠δ₁</text>
+  <line x1="560" y1="242" x2="560" y2="302" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="560" y="320" font-family="Libertinus Serif, Times New Roman, serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="#5b6b78">V₂∠δ₂</text>
+  <line x1="150" y1="272" x2="300" y2="272" stroke="#1f2a33" stroke-width="1.8"/>
+  <rect x="300" y="255" width="110" height="34" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="355.0" y="275.6666666666667" font-family="Libertinus Serif, Times New Roman, serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="#1f2a33">TCSC · SSSC</text>
+  <line x1="410" y1="272" x2="560" y2="272" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="600" y1="272" x2="641.2" y2="272.0" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="646.00,272.00 640.80,275.00 640.80,269.00" fill="#8f2622"/>
+  <text x="654" y="276" font-family="Libertinus Serif, Times New Roman, serif" font-size="12" font-weight="normal" text-anchor="start" fill="#8f2622">ελέγχει το X</text>
+  <text x="30" y="360" font-family="Libertinus Serif, Times New Roman, serif" font-size="12" font-weight="bold" text-anchor="start" fill="#1f2a33">Συνδυασμένη</text>
+  <line x1="150" y1="374" x2="150" y2="434" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="150" y="452" font-family="Libertinus Serif, Times New Roman, serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="#5b6b78">V₁∠δ₁</text>
+  <line x1="560" y1="374" x2="560" y2="434" stroke="#1f2a33" stroke-width="4.5"/>
+  <text x="560" y="452" font-family="Libertinus Serif, Times New Roman, serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="#5b6b78">V₂∠δ₂</text>
+  <line x1="150" y1="404" x2="258" y2="404" stroke="#1f2a33" stroke-width="1.8"/>
+  <rect x="258" y="387" width="92" height="34" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="304.0" y="407.6666666666667" font-family="Libertinus Serif, Times New Roman, serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="#1f2a33">σειρά</text>
+  <line x1="350" y1="404" x2="560" y2="404" stroke="#1f2a33" stroke-width="1.8"/>
+  <line x1="452" y1="404" x2="452" y2="428" stroke="#1f2a33" stroke-width="1.8"/>
+  <rect x="398" y="428" width="108" height="32" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="452.0" y="447.6666666666667" font-family="Libertinus Serif, Times New Roman, serif" font-size="11.5" font-weight="normal" text-anchor="middle" fill="#1f2a33">παράλληλα</text>
+  <line x1="304" y1="421" x2="304" y2="444" stroke="#5b6b78" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <line x1="304" y1="444" x2="398" y2="444" stroke="#5b6b78" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <line x1="600" y1="404" x2="641.2" y2="404.0" stroke="#8f2622" stroke-width="1.4"/>
+  <polygon points="646.00,404.00 640.80,407.00 640.80,401.00" fill="#8f2622"/>
+  <text x="654" y="408" font-family="Libertinus Serif, Times New Roman, serif" font-size="12" font-weight="normal" text-anchor="start" fill="#8f2622">ελέγχει V, X και δ</text>
+  <text x="654" y="426" font-family="Libertinus Serif, Times New Roman, serif" font-size="11.5" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">UPFC</text>
+</svg>

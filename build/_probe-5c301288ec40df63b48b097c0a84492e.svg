@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80" viewBox="0 0 300 80">
+  <rect x="5" y="5" width="290" height="70" fill="#eef" stroke="#334" stroke-width="1.5" rx="6"/>
+  <text x="150" y="35" font-family="Libertinus Serif, serif" font-size="16" text-anchor="middle" fill="#112">Δοκιμή ελληνικών</text>
+  <text x="150" y="60" font-family="Libertinus Serif, serif" font-size="13" text-anchor="middle" fill="#445" font-style="italic">SCADA · φασιθέτης · Δf</text>
+</svg>
