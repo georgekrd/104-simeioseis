@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
+  <rect width="900" height="230" fill="#ffffff"/>
+  <rect x="12" y="12" width="876" height="206" rx="10" fill="#eef2f6" stroke="#5b6b78" stroke-width="1.4"/>
+  <line x1="95" y1="70" x2="165" y2="58" stroke="#5b6b78" stroke-width="2.0"/>
+  <line x1="95" y1="70" x2="140" y2="128" stroke="#5b6b78" stroke-width="2.0"/>
+  <line x1="165" y1="58" x2="215" y2="118" stroke="#5b6b78" stroke-width="2.0"/>
+  <line x1="140" y1="128" x2="215" y2="118" stroke="#5b6b78" stroke-width="2.0"/>
+  <line x1="140" y1="128" x2="80" y2="170" stroke="#5b6b78" stroke-width="2.0"/>
+  <line x1="215" y1="118" x2="190" y2="180" stroke="#5b6b78" stroke-width="2.0"/>
+  <line x1="80" y1="170" x2="190" y2="180" stroke="#5b6b78" stroke-width="2.0"/>
+  <line x1="165" y1="58" x2="250" y2="70" stroke="#5b6b78" stroke-width="2.0"/>
+  <line x1="215" y1="118" x2="250" y2="70" stroke="#5b6b78" stroke-width="2.0"/>
+  <circle cx="95" cy="70" r="7" fill="#ffffff" stroke="#8f2622" stroke-width="2.4"/>
+  <circle cx="165" cy="58" r="7" fill="#ffffff" stroke="#8f2622" stroke-width="2.4"/>
+  <circle cx="140" cy="128" r="7" fill="#ffffff" stroke="#8f2622" stroke-width="2.4"/>
+  <circle cx="215" cy="118" r="7" fill="#ffffff" stroke="#8f2622" stroke-width="2.4"/>
+  <circle cx="80" cy="170" r="7" fill="#ffffff" stroke="#8f2622" stroke-width="2.4"/>
+  <circle cx="190" cy="180" r="7" fill="#ffffff" stroke="#8f2622" stroke-width="2.4"/>
+  <circle cx="250" cy="70" r="7" fill="#ffffff" stroke="#8f2622" stroke-width="2.4"/>
+  <text x="300" y="76" font-family="Libertinus Serif, Times New Roman, serif" font-size="21.75" font-weight="bold" text-anchor="start" fill="#1f2a33">Τιμή Εκκαθάρισης Αγοράς Επόμενης Ημέρας</text>
+  <text x="300" y="112" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="start" fill="#5b6b78">Διαδραστικό διάγραμμα του ΕΧΕ, διαθέσιμο στην ηλεκτρονική</text>
+  <text x="300" y="136" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="start" fill="#5b6b78">έκδοση των σημειώσεων και στον ιστότοπο του ΕΧΕ:</text>
+  <text x="300" y="172" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="start" fill="#8f2622">www.enexgroup.gr/el/web/guest/day-ahead-market-figures</text>
+</svg>

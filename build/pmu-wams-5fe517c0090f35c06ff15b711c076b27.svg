@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+  <rect width="900" height="330" fill="#ffffff"/>
+  <text x="170" y="34" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">Τι μετρά μια PMU</text>
+  <line x1="36" y1="112" x2="300" y2="112" stroke="#5b6b78" stroke-width="1.0"/>
+  <text x="306" y="116" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">t</text>
+  <polyline points="40.00,141.93 42.00,142.00 44.00,141.95 46.00,141.79 48.00,141.51 50.00,141.11 52.00,140.60 54.00,139.97 56.00,139.23 58.00,138.39 60.00,137.44 62.00,136.39 64.00,135.25 66.00,134.01 68.00,132.69 70.00,131.28 72.00,129.80 74.00,128.25 76.00,126.64 78.00,124.96 80.00,123.24 82.00,121.47 84.00,119.66 86.00,117.83 88.00,115.97 90.00,114.09 92.00,112.21 94.00,110.33 96.00,108.45 98.00,106.58 100.00,104.74 102.00,102.93 104.00,101.15 106.00,99.42 108.00,97.73 110.00,96.10 112.00,94.54 114.00,93.04 116.00,91.62 118.00,90.27 120.00,89.02 122.00,87.85 124.00,86.78 126.00,85.81 128.00,84.95 130.00,84.18 132.00,83.53 134.00,83.00 136.00,82.57 138.00,82.26 140.00,82.07 142.00,82.00 144.00,82.05 146.00,82.21 148.00,82.49 150.00,82.89 152.00,83.40 154.00,84.03 156.00,84.77 158.00,85.61 160.00,86.56 162.00,87.61 164.00,88.75 166.00,89.99 168.00,91.31 170.00,92.72 172.00,94.20 174.00,95.75 176.00,97.36 178.00,99.04 180.00,100.76 182.00,102.53 184.00,104.34 186.00,106.17 188.00,108.03 190.00,109.91 192.00,111.79 194.00,113.67 196.00,115.55 198.00,117.42 200.00,119.26 202.00,121.07 204.00,122.85 206.00,124.58 208.00,126.27 210.00,127.90 212.00,129.46 214.00,130.96 216.00,132.38 218.00,133.73 220.00,134.98 222.00,136.15 224.00,137.22 226.00,138.19 228.00,139.05 230.00,139.82 232.00,140.47 234.00,141.00 236.00,141.43 238.00,141.74 240.00,141.93 242.00,142.00 244.00,141.95 246.00,141.79 248.00,141.51 250.00,141.11 252.00,140.60 254.00,139.97 256.00,139.23 258.00,138.39 260.00,137.44 262.00,136.39 264.00,135.25 266.00,134.01 268.00,132.69 270.00,131.28 272.00,129.80 274.00,128.25 276.00,126.64 278.00,124.96 280.00,123.24 282.00,121.47 284.00,119.66 286.00,117.83 288.00,115.97 290.00,114.09 292.00,112.21 294.00,110.33 296.00,108.45" fill="none" stroke="#1f2a33" stroke-width="2.0"/>
+  <line x1="170" y1="68" x2="170" y2="158" stroke="#8f2622" stroke-width="1.3" stroke-dasharray="5 3"/>
+  <text x="170" y="60" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#8f2622" font-style="italic">παλμός PPS · UTC</text>
+  <line x1="142.22222222222223" y1="82" x2="142.22222222222223" y2="158" stroke="#5b6b78" stroke-width="1.0" stroke-dasharray="2 3"/>
+  <line x1="170" y1="152" x2="147.02222222222224" y2="152.0" stroke="#1f2a33" stroke-width="1.2"/>
+  <polygon points="142.22,152.00 147.42,149.00 147.42,155.00" fill="#1f2a33"/>
+  <line x1="142.22222222222223" y1="152" x2="165.2" y2="152.0" stroke="#1f2a33" stroke-width="1.2"/>
+  <polygon points="170.00,152.00 164.80,155.00 164.80,149.00" fill="#1f2a33"/>
+  <text x="156.11111111111111" y="174" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33" font-style="italic">δ</text>
+  <line x1="46" y1="300" x2="240" y2="300" stroke="#5b6b78" stroke-width="1.2"/>
+  <line x1="60" y1="312" x2="60" y2="192" stroke="#5b6b78" stroke-width="1.2"/>
+  <text x="246" y="304" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">Re</text>
+  <text x="68" y="200" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">Im</text>
+  <line x1="60" y1="300" x2="122.73607070540625" y2="225.23406235158774" stroke="#8f2622" stroke-width="2.2"/>
+  <polygon points="126.85,220.33 125.46,228.21 119.33,223.07" fill="#8f2622"/>
+  <path d="M 96 300 A 36 36 0 0 0 83.1 272.4" fill="none" stroke="#1f2a33" stroke-width="1.1"/>
+  <text x="103.50277377775919" y="284.7143234364464" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33" font-style="italic">δ</text>
+  <text x="132.8499114074001" y="214.3313779156263" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="start" fill="#8f2622">V∠δ</text>
+  <text x="176" y="256" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">1 μs χρονισμού</text>
+  <text x="176" y="274" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">→ 0,018° γωνίας</text>
+  <line x1="330" y1="24" x2="330" y2="316" stroke="#5b6b78" stroke-width="1.1" stroke-dasharray="5 4"/>
+  <text x="615" y="34" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">Ιεραρχία συλλογής δεδομένων</text>
+  <rect x="603" y="71" width="24" height="18" rx="2" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.3"/>
+  <rect x="575" y="74" width="22" height="12" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.1"/>
+  <line x1="586" y1="74" x2="586" y2="86" stroke="#5b6b78" stroke-width="0.9"/>
+  <rect x="633" y="74" width="22" height="12" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.1"/>
+  <line x1="644" y1="74" x2="644" y2="86" stroke="#5b6b78" stroke-width="0.9"/>
+  <line x1="597" y1="80" x2="603" y2="80" stroke="#1f2a33" stroke-width="1.2"/>
+  <line x1="627" y1="80" x2="633" y2="80" stroke="#1f2a33" stroke-width="1.2"/>
+  <text x="667" y="85" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">GPS · UTC</text>
+  <rect x="365" y="128" width="130" height="46" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="430.0" y="148.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">PMU 1</text>
+  <text x="430.0" y="167.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">υποσταθμός</text>
+  <line x1="615" y1="92" x2="434.7297650240082" y2="123.18187848233372" stroke="#5b6b78" stroke-width="1.1" stroke-dasharray="4 4"/>
+  <polygon points="430.00,124.00 434.61,120.16 435.63,126.07" fill="#5b6b78"/>
+  <line x1="430" y1="174" x2="610.4058653504808" y2="228.60934302501042" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="615.00,230.00 609.16,231.37 610.90,225.62" fill="#1f2a33"/>
+  <rect x="550" y="128" width="130" height="46" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="615.0" y="148.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">PMU 2</text>
+  <text x="615.0" y="167.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">υποσταθμός</text>
+  <line x1="615" y1="92" x2="615.0" y2="119.2" stroke="#5b6b78" stroke-width="1.1" stroke-dasharray="4 4"/>
+  <polygon points="615.00,124.00 612.00,118.80 618.00,118.80" fill="#5b6b78"/>
+  <line x1="615" y1="174" x2="615.0" y2="225.2" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="615.00,230.00 612.00,224.80 618.00,224.80" fill="#1f2a33"/>
+  <rect x="735" y="128" width="130" height="46" rx="4" fill="#eef2f6" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="800.0" y="148.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">PMU 3</text>
+  <text x="800.0" y="167.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">υποσταθμός</text>
+  <line x1="615" y1="92" x2="795.2702349759918" y2="123.18187848233372" stroke="#5b6b78" stroke-width="1.1" stroke-dasharray="4 4"/>
+  <polygon points="800.00,124.00 794.37,126.07 795.39,120.16" fill="#5b6b78"/>
+  <line x1="800" y1="174" x2="619.5941346495192" y2="228.60934302501042" stroke="#1f2a33" stroke-width="1.3"/>
+  <polygon points="615.00,230.00 619.10,225.62 620.84,231.37" fill="#1f2a33"/>
+  <text x="522" y="214" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78" font-style="italic">10–50 πλαίσια/s</text>
+  <rect x="520" y="234" width="190" height="50" rx="4" fill="#f4f6f2" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="615.0" y="256.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">PDC</text>
+  <text x="615.0" y="275.0" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">χρονική ευθυγράμμιση</text>
+  <rect x="752" y="234" width="128" height="50" rx="4" fill="#f7efee" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="816.0" y="263.3333333333333" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="normal" text-anchor="middle" fill="#1f2a33">WAMS · EMS</text>
+  <line x1="710" y1="259" x2="742.4" y2="259.0" stroke="#1f2a33" stroke-width="1.4"/>
+  <polygon points="748.00,259.00 741.94,262.50 741.94,255.50" fill="#1f2a33"/>
+</svg>

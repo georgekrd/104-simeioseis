@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3000</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/systima-metaforas</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/b-paradeigmata</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/c-vivliografia</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/epikourikes-mi-sychnotitas</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/b-paradeigmata-tasis</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/c-vivliografia-mi-sychnotitas</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/epikourikes-sychnotitas</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/b-paradeigmata-sychnotitas</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/c-vivliografia-sychnotitas</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/simeioma</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/glossario</loc>
+  </url>
+</urlset>

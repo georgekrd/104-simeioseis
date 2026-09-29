@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <rect width="900" height="420" fill="#ffffff"/>
+  <text x="235" y="32" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">SVC</text>
+  <text x="235" y="52" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">όρια σταθερής επιδεκτικότητας</text>
+  <polygon points="235.0,330.0 75.0,113.0 395.0,113.0" fill="#eef2f6" stroke="#5b6b78" stroke-width="1.1"/>
+  <line x1="61" y1="330" x2="409" y2="330" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="235" y1="340" x2="235" y2="98" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="243" y="96" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">V (p.u.)</text>
+  <line x1="61" y1="239.6" x2="69" y2="239.6" stroke="#1f2a33" stroke-width="1.2"/>
+  <text x="55" y="243.6" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">0,5</text>
+  <line x1="61" y1="149.2" x2="69" y2="149.2" stroke="#1f2a33" stroke-width="1.2"/>
+  <text x="55" y="153.2" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">1,0</text>
+  <text x="141.66666666666666" y="352" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">χωρητικό</text>
+  <text x="328.33333333333337" y="352" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">επαγωγικό</text>
+  <text x="235" y="372" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">ρεύμα I</text>
+  <text x="199.0" y="297.456" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="end" fill="#5b6b78"><tspan font-size="15.95" dy="0">B</tspan><tspan font-size="11.95" dy="4">C,max</tspan><tspan dy="-4"> </tspan></text>
+  <text x="271.0" y="297.456" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="start" fill="#5b6b78"><tspan font-size="15.95" dy="0">B</tspan><tspan font-size="11.95" dy="4">L,max</tspan><tspan dy="-4"> </tspan></text>
+  <polyline points="235.00,330.00 105.55,154.47 372.46,143.61 395.00,113.04" fill="none" stroke="#8f2622" stroke-width="2.6"/>
+  <text x="301.6666666666667" y="134.488" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#8f2622" font-style="italic">στατισμός</text>
+  <line x1="235" y1="239.6" x2="168.33333333333331" y2="239.6" stroke="#1f2a33" stroke-width="1.4" stroke-dasharray="4 3"/>
+  <circle cx="168.3" cy="239.6" r="4" fill="#1f2a33"/>
+  <text x="201.66666666666666" y="229.6" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">50%</text>
+  <text x="675" y="32" font-family="Libertinus Serif, Times New Roman, serif" font-size="18.849999999999998" font-weight="bold" text-anchor="middle" fill="#1f2a33">STATCOM</text>
+  <text x="675" y="52" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">όρια σταθερού ρεύματος</text>
+  <polygon points="541.7,302.9 541.7,113.0 808.3,113.0 808.3,302.9" fill="#eef2f6" stroke="#5b6b78" stroke-width="1.1"/>
+  <line x1="501" y1="330" x2="849" y2="330" stroke="#1f2a33" stroke-width="1.4"/>
+  <line x1="675" y1="340" x2="675" y2="98" stroke="#1f2a33" stroke-width="1.4"/>
+  <text x="683" y="96" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="start" fill="#5b6b78" font-style="italic">V (p.u.)</text>
+  <line x1="501" y1="239.6" x2="509" y2="239.6" stroke="#1f2a33" stroke-width="1.2"/>
+  <text x="495" y="243.6" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">0,5</text>
+  <line x1="501" y1="149.2" x2="509" y2="149.2" stroke="#1f2a33" stroke-width="1.2"/>
+  <text x="495" y="153.2" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="end" fill="#5b6b78">1,0</text>
+  <text x="581.6666666666666" y="352" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">χωρητικό</text>
+  <text x="768.3333333333334" y="352" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">επαγωγικό</text>
+  <text x="675" y="372" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">ρεύμα I</text>
+  <text x="549.6666666666666" y="290.224" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="start" fill="#5b6b78"><tspan font-size="15.95" dy="0">I</tspan><tspan font-size="11.95" dy="4">C,max</tspan><tspan dy="-4"> </tspan></text>
+  <text x="800.3333333333334" y="290.224" font-family="Libertinus Serif, Times New Roman, serif" font-size="15.95" text-anchor="end" fill="#5b6b78"><tspan font-size="15.95" dy="0">I</tspan><tspan font-size="11.95" dy="4">L,max</tspan><tspan dy="-4"> </tspan></text>
+  <polyline points="541.67,302.88 541.67,154.62 808.33,143.78 808.33,113.04" fill="none" stroke="#8f2622" stroke-width="2.6"/>
+  <text x="741.6666666666666" y="134.488" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#8f2622" font-style="italic">στατισμός</text>
+  <line x1="675" y1="239.6" x2="541.6666666666666" y2="239.6" stroke="#1f2a33" stroke-width="1.4" stroke-dasharray="4 3"/>
+  <circle cx="541.7" cy="239.6" r="4" fill="#1f2a33"/>
+  <text x="608.3333333333334" y="229.6" font-family="Libertinus Serif, Times New Roman, serif" font-size="17.4" font-weight="normal" text-anchor="middle" fill="#1f2a33">100%</text>
+  <line x1="455" y1="24" x2="455" y2="380" stroke="#5b6b78" stroke-width="1.1" stroke-dasharray="5 4"/>
+  <text x="450" y="406" font-family="Libertinus Serif, Times New Roman, serif" font-size="16.675" font-weight="normal" text-anchor="middle" fill="#5b6b78" font-style="italic">Στο μισό της ονομαστικής τάσης ο SVC αποδίδει το μισό ρεύμα· ο STATCOM διατηρεί το πλήρες.</text>
+</svg>
